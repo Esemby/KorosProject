@@ -74,9 +74,12 @@ $RECYCLE.BIN/
 # IDEs & Editors
 # =====================
 
-# VSCode
+
+# VSCode / VSCodium
 .vscode/
+.vscodium/
 *.code-workspace
+
 
 # JetBrains
 .idea/
