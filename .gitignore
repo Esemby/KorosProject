@@ -1,0 +1,117 @@
+# =====================
+# UndertaleModTool
+# =====================
+
+# Backup files created by UTMT
+*.bak
+*.backup
+Backups/
+
+# UTMT project temp files
+*.umt
+*.umtproj.bak
+
+# Exported/imported temp assets (re-generatable)
+Export_*/
+Import_*/
+
+# Profile mode data (auto-generated)
+Profiles/
+
+# =====================
+# GameMaker Studio 1.4
+# =====================
+
+# Compiled output
+*.exe
+*.win
+*.unx
+*.ios
+*.droid
+*.appx
+
+# GameMaker cache & temp
+.cache/
+Cache/
+Temp/
+*.tmp
+
+# GameMaker project user files (machine-specific)
+*.gmx.user
+*.resource_order
+
+# GameMaker Studio 2 (if you ever migrate)
+*.yyz
+*.yyp.lock
+/.ignored/
+
+# =====================
+# OS & System Files
+# =====================
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# =====================
+# IDEs & Editors
+# =====================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim/Neovim
+*.swp
+*.swo
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+
+# =====================
+# Logs & Misc
+# =====================
+
+logs/
+*.log
+*.pid
+
+# Node (if using any tooling/scripts)
+node_modules/
+npm-debug.log*
+
+# Python (if using any scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+
+# Zip/archive artifacts
+*.zip
+*.tar.gz
+*.rar
