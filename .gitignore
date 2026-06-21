@@ -24,6 +24,7 @@ Profiles/
 
 # Compiled output
 *.exe
+*.unx
 *.win
 *.unx
 *.ios
