@@ -1,0 +1,13 @@
+dsprite = spr_esemby;
+usprite = spr_esemby;
+lsprite = spr_esemby;
+rsprite = spr_esemby;
+dtsprite = spr_esemby;
+utsprite = spr_esemby;
+ltsprite = spr_esemby;
+rtsprite = spr_esemby;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;
