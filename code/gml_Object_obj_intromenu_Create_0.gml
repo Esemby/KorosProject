@@ -1,4 +1,3 @@
-//test
 siner_o = 0;
 selected = 65;
 charname = "";
