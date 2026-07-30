@@ -12,8 +12,8 @@
 ### First-time setup
 
 1. Copy your vanilla `data.win` somewhere safe as a backup.
-1. 1. it is recommended to also create a `data-template.win` to load the project from.
-2. Clone this repository to your local machine.
+2. it is recommended to also create a `data-template.win` to load the project from.
+3. Clone this repository to your local machine.
 
 ### loading the project
 
