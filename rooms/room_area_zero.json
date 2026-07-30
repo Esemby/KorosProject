@@ -313,19 +313,6 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_doorA",
-      "X": 260,
-      "Y": 140,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
       "ObjectName": "obj_overworldcontroller",
       "X": 16,
       "Y": 14,
