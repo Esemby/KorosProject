@@ -12,18 +12,27 @@
 ### First-time setup
 
 1. Copy your vanilla `data.win` somewhere safe as a backup.
+1. 1. it is recommended to also create a `data-template.win` to load the project from.
 2. Clone this repository to your local machine.
+
+### loading the project
+
+1. Once you open the UndertaleModTool, go to Project -> Open project and follow the dialog
+2. Dialog will promt you to choose a project first: choose the project.json from the repository
+3. Second choice is the **source** `data.win`, choose the `data-template.win` for this one.
+4. Third comes the **destination** `data.win`. For ease of debuging, choose `data.win`.
+
+This process loads everything that has been properly saved before, including previously added sprites and backgrounds.
 
 ### Importing sprites
 
 Sprites are imported using UTMT's built-in `ImportGraphicsAdvanced.csx` script:
 
-1. Open UTMT and load your `data.win` via **File → Open**.
-2. Go to **Scripts → Resource Importers → ImportGraphicsAdvanced.csx**.
-3. Point the script at the `sprites/` folder inside your local clone of this repository.
-4. Backgrounds are handled seperately, so remember to put backgrounds into `sprites/Backgrounds`
-5. The script will import all subfolders automatically, matching them to existing sprite assets by folder name.
-6. Once complete, go to **File → Save** to write the changes back to `data.win`.
+1. Go to **Scripts → Resource Importers → ImportGraphicsAdvanced.csx**.
+2. Point the script at the `sprites/` folder inside your local clone of this repository.
+3. Backgrounds are handled seperately, so remember to put backgrounds into `backgrounds/` and have to fit within 2048x2048 pixels
+4. The script will import all subfolders automatically, matching them to existing sprite assets by folder name.
+5. Once complete, go to **File → Save** to write the changes back to `data.win`.
 
 ### Sprite naming convention
 
