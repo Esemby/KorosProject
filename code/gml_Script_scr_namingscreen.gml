@@ -1,4 +1,4 @@
-//added for research
+//the initial room gets changed here
 draw_set_color(c_white);
 scr_setfont(fnt_maintext);
 
@@ -85,7 +85,7 @@ if (naming == 5)
         if (scr_hardmodename(charname))
             global.flag[6] = 1;
         
-        room_goto_next();
+        room_goto(room_area_zero);
     }
 }
 
@@ -630,7 +630,7 @@ if (naming == 3)
             caster_free(all);
             
             if (ossafe_file_exists("file0") == 0)
-                room_goto_next();
+                room_goto(room_area_zero);
             else
                 script_execute(scr_load);
         }
