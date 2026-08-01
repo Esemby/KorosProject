@@ -262,8 +262,8 @@
     },
     {
       "ObjectName": "obj_mainchara",
-      "X": 100,
-      "Y": 180,
+      "X": 464,
+      "Y": 176,
       "CreationCodeEntry": null,
       "ScaleX": 1,
       "ScaleY": 1,
@@ -300,35 +300,9 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_readable_flowers1",
-      "X": 100,
-      "Y": 180,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
       "ObjectName": "obj_overworldcontroller",
       "X": 16,
       "Y": 14,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
-      "ObjectName": "obj_unfader",
-      "X": 375,
-      "Y": 90,
       "CreationCodeEntry": null,
       "ScaleX": 1,
       "ScaleY": 1,
@@ -574,7 +548,7 @@
     },
     {
       "ObjectName": "obj_solidsmall",
-      "X": 180,
+      "X": 184,
       "Y": 20,
       "CreationCodeEntry": null,
       "ScaleX": 1,
@@ -584,9 +558,35 @@
       "PreCreateCodeEntry": null,
       "ImageSpeed": 0,
       "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_markerX",
+      "X": 252,
+      "Y": 176,
+      "CreationCodeEntry": null,
+      "ScaleX": 2,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_birthday_door",
+      "X": 256,
+      "Y": 144,
+      "CreationCodeEntry": null,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
     }
   ],
-  "Tiles": [{"Asset":"bg_ruinsplaceholder2","X":100,"Y":180,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder2","X":120,"Y":200,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder2","X":80,"Y":200,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":80,"Y":180,"SourceX":100,"SourceY":240,"Width":60,"Height":40,"Depth":999999,"ScaleX":1,"ScaleY":1,"Color":4294967295}],
+  "Tiles": [],
   "Layers": [],
   "InstanceCreationOrderIDs": null,
   "Sequences": []
