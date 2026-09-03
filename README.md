@@ -183,3 +183,45 @@ If in doubt, save again — there's no downside to saving too often, but an unsa
 3. `File → Save Project`
 4. Confirm the expected files changed (`git status` / `git diff`)
 5. Commit and push
+
+
+## Importing Custom Music
+
+Undertale/UMT stores music as embedded OGG Vorbis audio inside `data.win`. Here's how to add a new track:
+
+### 1. Prepare the audio file
+Convert your track to **OGG Vorbis**, 44100 Hz sample rate (mono or stereo both work). This matches the game's existing music format and avoids pitch/speed issues.
+```bash
+ffmpeg -i input.wav -ar 44100 -c:a libvorbis output.ogg
+```
+
+### 2. Import it via the built-in script
+Newer UMT versions don't expose "Import" through the Sounds folder's right-click menu — use the bundled script instead:
+
+1. Open `data.win` in UMT.
+2. Go to **Scripts → Resource Importers** (older versions: **Repackers**) **→ `ImportSingleSound.csx`**.
+3. Run it and select your `.ogg`/`.wav` file.
+4. Give it an internal name, e.g. `mus_birthday`.
+5. When prompted to embed the sound, choose **Yes**.
+
+*(Alternative: select an existing Sound entry in the tree and look for a **Replace** button next to Play/Stop — this swaps that entry's embedded audio.)*
+
+### 3. Match flags to existing music
+Compare your new entry's **Type** (Regular/Compressed/Streamed) to an existing track like `mus_ruins`. Music is normally set to **Streamed**. Mismatched flags are the most common cause of silent or corrupted playback.
+
+### 4. Play it in your room
+In the room's **Creation Code** (or the relevant object's Create event):
+```gml
+audio_stop_all();
+audio_play_sound(mus_birthday, 10, true);
+```
+`10` = priority, `true` = loop (set `false` for a one-shot jingle).
+
+### 5. Save and test
+Save `data.win`, then launch the game and enter the room to confirm it plays correctly.
+
+### Troubleshooting
+- **Plays in UMT but not in-game**: usually a Type/flag mismatch — re-check step 3.
+- **Overlapping music**: make sure `audio_stop_all()` runs before your new track.
+- **Sound not found error in code**: save and reopen `data.win` after importing so the new asset registers as a valid GML identifier.
+- **Corrupted/garbled playback**: the source file wasn't real OGG Vorbis (e.g. an MP3 renamed to `.ogg`) — re-export it.
