@@ -1,0 +1,13 @@
+{
+  "$type": "Sound",
+  "DataName": null,
+  "Filename": "mus_bndbyfrnship.ogg",
+  "Type": ".ogg",
+  "Volume": 1,
+  "Pitch": 1,
+  "Streamed": false,
+  "DecompressOnLoad": true,
+  "GroupID": 0,
+  "Effects": 0,
+  "AudioLength": 0
+}
