@@ -261,19 +261,6 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_solidtall",
-      "X": 0,
-      "Y": 56,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
       "ObjectName": "obj_sur",
       "X": 240,
       "Y": 60,
@@ -457,10 +444,10 @@
     },
     {
       "ObjectName": "obj_markerB",
-      "X": 610,
-      "Y": 152,
+      "X": 600,
+      "Y": 160,
       "CreationCodeEntry": null,
-      "ScaleX": 1,
+      "ScaleX": 2,
       "ScaleY": 1,
       "Color": 4294967295,
       "Rotation": 0,
@@ -470,10 +457,10 @@
     },
     {
       "ObjectName": "obj_doorA",
-      "X": 610,
+      "X": 600,
       "Y": 140,
       "CreationCodeEntry": null,
-      "ScaleX": 1,
+      "ScaleX": 2,
       "ScaleY": 1,
       "Color": 4294967295,
       "Rotation": 0,
@@ -599,9 +586,9 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_birthday_door",
-      "X": 133,
-      "Y": 53,
+      "ObjectName": "obj_markerX",
+      "X": 140,
+      "Y": 140,
       "CreationCodeEntry": null,
       "ScaleX": 1,
       "ScaleY": 1,
@@ -612,9 +599,9 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_markerX",
-      "X": 140,
-      "Y": 140,
+      "ObjectName": "obj_birthday_door",
+      "X": 130,
+      "Y": 70,
       "CreationCodeEntry": null,
       "ScaleX": 1,
       "ScaleY": 1,

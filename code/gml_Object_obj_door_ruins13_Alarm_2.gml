@@ -1,12 +1,18 @@
 //this is kind of the "global door"...
 global.entrance = 24;
 instance_create(0, 0, obj_persistentfader);
+
 if (room == room_area1)
     room_goto(room_area_zero);
     
-if (room == room_area_zero)
-    room_goto(room_area1);
-    
+if (room == room_area1_2)
+    room_goto(room_area_zero);
+
+if (room == room_area_zero) {
+    audio_stop_all();
+    room_goto(room_ruins1);
+}
+
 if (room == room_ruins12)
     room_goto(room_ruins13);
 

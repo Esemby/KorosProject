@@ -16421,7 +16421,7 @@ ds_map_add(global.text_data_en, "mettquiz_q2_text", "What's the king's#full name
 ds_map_add(global.text_data_en, "mettquiz_q2_a1", "Lord Fluffybuns");
 ds_map_add(global.text_data_en, "mettquiz_q2_a2", "Fuzzy Pushover");
 ds_map_add(global.text_data_en, "mettquiz_q2_a3", "Asgore Dreemurr");
-ds_map_add(global.text_data_en, "mettquiz_q2_a4", "Dr. Friendship");
+ds_map_add(global.text_data_en, "mettquiz_q2_a4", "Esemby, Actually");
 ds_map_add(global.text_data_en, "mettquiz_q3_text", "What are robots#made of?");
 ds_map_add(global.text_data_en, "mettquiz_q3_a1", "Hopes&Dreams");
 ds_map_add(global.text_data_en, "mettquiz_q3_a2", "Metal&Magic");
@@ -16452,9 +16452,13 @@ ds_map_add(global.text_data_en, "mettquiz_q9_text", 'In the dating#simulation vi
 ds_map_add(global.text_data_en, "mettquiz_q10_text", "Who does Dr. Alphys#have a crush on?");
 ds_map_add(global.text_data_en, "mettquiz_q10_a1", "Undyne");
 ds_map_add(global.text_data_en, "mettquiz_q10_a2", "Asgore");
-ds_map_add(global.text_data_en, "mettquiz_q10_a3", "The human");
+ds_map_add(global.text_data_en, "mettquiz_q10_a3", "The Koroyopi");
 ds_map_add(global.text_data_en, "mettquiz_q10_a4", "Don't know");
 ds_map_add(global.text_data_en, "esemby_001", "Hello Koro!/");
-ds_map_add(global.text_data_en, "esemby_002", "As you can see, we're hard at    work!/");
-ds_map_add(global.text_data_en, "esemby_003", "Send codeword salmon so I know   you read this :3/%%");
+ds_map_add(global.text_data_en, "esemby_002", "As you can see, we're hard at#work!/");
+ds_map_add(global.text_data_en, "esemby_003", "Send codeword salmon so I know#you read this :3/%%");
 ds_map_add(global.text_data_en, "esemby_004", "That's right, codeword salmon :3/%%");
+ds_map_add(global.text_data_en, "esemby_005", "I like salmon, can you tell?/%%");
+ds_map_add(global.text_data_en, "ayumu_001", "You look different, but I'm not#sure what it is../");
+ds_map_add(global.text_data_en, "ayumu_002", "Happy Birthday Robin!/%%");
+ds_map_add(global.text_data_en, "puppet_001", "Happy Birthday Robin!/%%");

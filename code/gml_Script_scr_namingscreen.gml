@@ -85,7 +85,7 @@ if (naming == 5)
         if (scr_hardmodename(charname))
             global.flag[6] = 1;
         
-        room_goto(room_area_zero);
+        room_goto(room_area1);
     }
 }
 
@@ -630,7 +630,7 @@ if (naming == 3)
             caster_free(all);
             
             if (ossafe_file_exists("file0") == 0)
-                room_goto(room_area_zero);
+                room_goto(room_area1);
             else
                 script_execute(scr_load);
         }
