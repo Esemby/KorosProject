@@ -1,0 +1,13 @@
+dsprite = spr_guest_chara;
+usprite = spr_guest_chara;
+lsprite = spr_guest_chara;
+rsprite = spr_guest_chara;
+dtsprite = spr_guest_chara;
+utsprite = spr_guest_chara;
+ltsprite = spr_guest_chara;
+rtsprite = spr_guest_chara;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

@@ -1,0 +1,13 @@
+dsprite = spr_guest_koro;
+usprite = spr_guest_koro;
+lsprite = spr_guest_koro;
+rsprite = spr_guest_koro;
+dtsprite = spr_guest_koro;
+utsprite = spr_guest_koro;
+ltsprite = spr_guest_koro;
+rtsprite = spr_guest_koro;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

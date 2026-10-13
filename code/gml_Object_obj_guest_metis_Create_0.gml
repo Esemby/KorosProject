@@ -1,0 +1,13 @@
+dsprite = spr_guest_metis;
+usprite = spr_guest_metis;
+lsprite = spr_guest_metis;
+rsprite = spr_guest_metis;
+dtsprite = spr_guest_metis;
+utsprite = spr_guest_metis;
+ltsprite = spr_guest_metis;
+rtsprite = spr_guest_metis;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

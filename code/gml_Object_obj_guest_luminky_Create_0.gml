@@ -1,0 +1,13 @@
+dsprite = spr_guest_luminky;
+usprite = spr_guest_luminky;
+lsprite = spr_guest_luminky;
+rsprite = spr_guest_luminky;
+dtsprite = spr_guest_luminky;
+utsprite = spr_guest_luminky;
+ltsprite = spr_guest_luminky;
+rtsprite = spr_guest_luminky;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

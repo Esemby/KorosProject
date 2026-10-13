@@ -1,0 +1,13 @@
+dsprite = spr_guest_dr_indigo;
+usprite = spr_guest_dr_indigo;
+lsprite = spr_guest_dr_indigo;
+rsprite = spr_guest_dr_indigo;
+dtsprite = spr_guest_dr_indigo;
+utsprite = spr_guest_dr_indigo;
+ltsprite = spr_guest_dr_indigo;
+rtsprite = spr_guest_dr_indigo;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

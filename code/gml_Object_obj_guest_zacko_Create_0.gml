@@ -1,0 +1,13 @@
+dsprite = spr_guest_zacko;
+usprite = spr_guest_zacko;
+lsprite = spr_guest_zacko;
+rsprite = spr_guest_zacko;
+dtsprite = spr_guest_zacko;
+utsprite = spr_guest_zacko;
+ltsprite = spr_guest_zacko;
+rtsprite = spr_guest_zacko;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

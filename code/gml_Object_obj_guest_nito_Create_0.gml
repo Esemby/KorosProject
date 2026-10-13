@@ -1,0 +1,13 @@
+dsprite = spr_guest_nito;
+usprite = spr_guest_nito;
+lsprite = spr_guest_nito;
+rsprite = spr_guest_nito;
+dtsprite = spr_guest_nito;
+utsprite = spr_guest_nito;
+ltsprite = spr_guest_nito;
+rtsprite = spr_guest_nito;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

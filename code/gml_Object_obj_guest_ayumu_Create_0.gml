@@ -1,0 +1,13 @@
+dsprite = spr_guest_ayumu;
+usprite = spr_guest_ayumu;
+lsprite = spr_guest_ayumu;
+rsprite = spr_guest_ayumu;
+dtsprite = spr_guest_ayumu;
+utsprite = spr_guest_ayumu;
+ltsprite = spr_guest_ayumu;
+rtsprite = spr_guest_ayumu;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

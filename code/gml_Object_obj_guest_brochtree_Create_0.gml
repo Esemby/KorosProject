@@ -1,0 +1,13 @@
+dsprite = spr_guest_brochtree;
+usprite = spr_guest_brochtree;
+lsprite = spr_guest_brochtree;
+rsprite = spr_guest_brochtree;
+dtsprite = spr_guest_brochtree;
+utsprite = spr_guest_brochtree;
+ltsprite = spr_guest_brochtree;
+rtsprite = spr_guest_brochtree;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

@@ -1,0 +1,13 @@
+dsprite = spr_guest_lynn;
+usprite = spr_guest_lynn;
+lsprite = spr_guest_lynn;
+rsprite = spr_guest_lynn;
+dtsprite = spr_guest_lynn;
+utsprite = spr_guest_lynn;
+ltsprite = spr_guest_lynn;
+rtsprite = spr_guest_lynn;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

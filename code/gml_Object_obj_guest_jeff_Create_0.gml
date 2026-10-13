@@ -1,0 +1,13 @@
+dsprite = spr_guest_jeff;
+usprite = spr_guest_jeff;
+lsprite = spr_guest_jeff;
+rsprite = spr_guest_jeff;
+dtsprite = spr_guest_jeff;
+utsprite = spr_guest_jeff;
+ltsprite = spr_guest_jeff;
+rtsprite = spr_guest_jeff;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

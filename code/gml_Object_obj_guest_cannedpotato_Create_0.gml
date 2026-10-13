@@ -1,0 +1,13 @@
+dsprite = spr_guest_cannedpotato;
+usprite = spr_guest_cannedpotato;
+lsprite = spr_guest_cannedpotato;
+rsprite = spr_guest_cannedpotato;
+dtsprite = spr_guest_cannedpotato;
+utsprite = spr_guest_cannedpotato;
+ltsprite = spr_guest_cannedpotato;
+rtsprite = spr_guest_cannedpotato;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

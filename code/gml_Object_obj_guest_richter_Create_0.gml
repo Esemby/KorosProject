@@ -1,0 +1,13 @@
+dsprite = spr_guest_richter;
+usprite = spr_guest_richter;
+lsprite = spr_guest_richter;
+rsprite = spr_guest_richter;
+dtsprite = spr_guest_richter;
+utsprite = spr_guest_richter;
+ltsprite = spr_guest_richter;
+rtsprite = spr_guest_richter;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;
