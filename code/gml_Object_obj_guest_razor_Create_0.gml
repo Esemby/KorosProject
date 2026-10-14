@@ -1,0 +1,13 @@
+dsprite = spr_guest_razor;
+usprite = spr_guest_razor;
+lsprite = spr_guest_razor;
+rsprite = spr_guest_razor;
+dtsprite = spr_guest_razor;
+utsprite = spr_guest_razor;
+ltsprite = spr_guest_razor;
+rtsprite = spr_guest_razor;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

@@ -1,12 +1,12 @@
 {
   "$type": "GameObject",
   "DataName": null,
-  "Sprite": "spr_guest_zacko",
+  "Sprite": "spr_regpresent",
   "Visible": true,
   "Solid": false,
   "Depth": 0,
   "Persistent": false,
-  "ParentObject": "obj_readablesolid",
+  "ParentObject": "obj_door_ruins13",
   "MaskSprite": null,
   "UsesPhysics": false,
   "IsSensor": false,
@@ -20,5 +20,11 @@
   "Awake": false,
   "Kinematic": false,
   "PhysicsVertices": [],
-  "Events": []
+  "Events": [
+    {
+      "Category": "Create",
+      "Subtype": "",
+      "CodeEntry": "gml_Object_obj_magic_birthday_door_Create_0"
+    }
+  ]
 }

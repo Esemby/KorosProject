@@ -12,3 +12,4 @@ global.msg[0] = scr_gettext("koro_001");  // Hello Koro!/
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;
+global.talked_to_koro = 1;

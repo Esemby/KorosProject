@@ -1,0 +1,13 @@
+dsprite = spr_guest_frost;
+usprite = spr_guest_frost;
+lsprite = spr_guest_frost;
+rsprite = spr_guest_frost;
+dtsprite = spr_guest_frost;
+utsprite = spr_guest_frost;
+ltsprite = spr_guest_frost;
+rtsprite = spr_guest_frost;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

@@ -1,0 +1,13 @@
+dsprite = spr_guest_catmun;
+usprite = spr_guest_catmun;
+lsprite = spr_guest_catmun;
+rsprite = spr_guest_catmun;
+dtsprite = spr_guest_catmun;
+utsprite = spr_guest_catmun;
+ltsprite = spr_guest_catmun;
+rtsprite = spr_guest_catmun;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

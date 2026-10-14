@@ -1,0 +1,13 @@
+dsprite = spr_guest_ruyawn;
+usprite = spr_guest_ruyawn;
+lsprite = spr_guest_ruyawn;
+rsprite = spr_guest_ruyawn;
+dtsprite = spr_guest_ruyawn;
+utsprite = spr_guest_ruyawn;
+ltsprite = spr_guest_ruyawn;
+rtsprite = spr_guest_ruyawn;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

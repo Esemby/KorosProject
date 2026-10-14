@@ -1,0 +1,13 @@
+dsprite = spr_guest_shmaykin;
+usprite = spr_guest_shmaykin;
+lsprite = spr_guest_shmaykin;
+rsprite = spr_guest_shmaykin;
+dtsprite = spr_guest_shmaykin;
+utsprite = spr_guest_shmaykin;
+ltsprite = spr_guest_shmaykin;
+rtsprite = spr_guest_shmaykin;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

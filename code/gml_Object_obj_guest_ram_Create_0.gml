@@ -1,0 +1,13 @@
+dsprite = spr_guest_ram;
+usprite = spr_guest_ram;
+lsprite = spr_guest_ram;
+rsprite = spr_guest_ram;
+dtsprite = spr_guest_ram;
+utsprite = spr_guest_ram;
+ltsprite = spr_guest_ram;
+rtsprite = spr_guest_ram;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

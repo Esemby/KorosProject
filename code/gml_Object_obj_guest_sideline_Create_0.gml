@@ -1,0 +1,13 @@
+dsprite = spr_guest_sideline;
+usprite = spr_guest_sideline;
+lsprite = spr_guest_sideline;
+rsprite = spr_guest_sideline;
+dtsprite = spr_guest_sideline;
+utsprite = spr_guest_sideline;
+ltsprite = spr_guest_sideline;
+rtsprite = spr_guest_sideline;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;
