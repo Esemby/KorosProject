@@ -16454,36 +16454,335 @@ ds_map_add(global.text_data_en, "mettquiz_q10_a1", "Undyne");
 ds_map_add(global.text_data_en, "mettquiz_q10_a2", "Asgore");
 ds_map_add(global.text_data_en, "mettquiz_q10_a3", "The Koroyopi");
 ds_map_add(global.text_data_en, "mettquiz_q10_a4", "Don't know");
-ds_map_add(global.text_data_en, "esemby_001", "This is my friend Chara!/");
-ds_map_add(global.text_data_en, "esemby_002", "Chara is a wonderful friend!/");
-ds_map_add(global.text_data_en, "esemby_003", "I hope that, whenever Chara is###not feeling well, she remembers##how loved and valued she is!/%%");
-ds_map_add(global.text_data_en, "esemby_101", "Hello Koro!/");
-ds_map_add(global.text_data_en, "esemby_102", "As you can see, we're hard at#work!/");
-ds_map_add(global.text_data_en, "esemby_103", "Send codeword salmon so I know#you read this :3/%%");
-ds_map_add(global.text_data_en, "esemby_104", "That's right, codeword salmon :3/%%");
-ds_map_add(global.text_data_en, "esemby_105", "I like salmon, can you tell?/%%");
+//custom texts start here
+//Alex
+ds_map_add(global.text_data_en, "alex_001", "Happy Birthday Robin!/%%");
+//Ayumu
+ds_map_add(global.text_data_en, "ayumu_001", "You look different, but I'm not#sure what it is../");
+ds_map_add(global.text_data_en, "ayumu_002", "Happy Birthday Robin!/");
+ds_map_add(global.text_data_en, "ayumu_003", "You've been though a rough year, but you've come out on top!/");
+ds_map_add(global.text_data_en, "ayumu_004", "We all love you and hope that your dreams and wishes come though!/");
+ds_map_add(global.text_data_en, "ayumu_005", "You should go see the others as they're excited to talk to you./");
+ds_map_add(global.text_data_en, "ayumu_006", "I can't wait for the cake!/");
+ds_map_add(global.text_data_en, "ayumu_007", "After the party, let's all play Uno, amu~<3/%%");
+//Bear
+ds_map_add(global.text_data_en, "bear_001", "Happy Birthday Robin!/%%");
+//Beb
+ds_map_add(global.text_data_en, "beb_001", "Happy Birthday to you Robin!/");
+ds_map_add(global.text_data_en, "beb_002", "Wishing you a really great day!/");
+ds_map_add(global.text_data_en, "beb_003", "With lots of friends and cake and presents and other birthday stuff!/");
+ds_map_add(global.text_data_en, "beb_004", "I know before today there have been many tough days.../");
+ds_map_add(global.text_data_en, "beb_005", "And there might be more in the future (I hope not many)/");
+ds_map_add(global.text_data_en, "beb_006", "But today we celebrate that you got this far!/");
+ds_map_add(global.text_data_en, "beb_007", "You're an amazing bird who has spread a lot of joy/");
+ds_map_add(global.text_data_en, "beb_008", "You've certainly brought me some joy!/");
+ds_map_add(global.text_data_en, "beb_009", "... though you did also shoot me.../");
+ds_map_add(global.text_data_en, "beb_010", "But I survived!/");
+ds_map_add(global.text_data_en, "beb_011", "(And to be fair it was very funny)/");
+ds_map_add(global.text_data_en, "beb_012", "We love you Robin, have an awesome rest of your Birthday!/%%");
+//Bibi
+ds_map_add(global.text_data_en, "bibi_001", "HAIII ROBIN!/");
+ds_map_add(global.text_data_en, "bibi_002", "Your smile shines even brighter today!/");
+ds_map_add(global.text_data_en, "bibi_003", "Maybe it is..../");
+ds_map_add(global.text_data_en, "bibi_004", "because..../");
+ds_map_add(global.text_data_en, "bibi_005", "ITS YOUR BIRTHDAY!/");
+ds_map_add(global.text_data_en, "bibi_006", "HAPPY BIRTHDAY ROBIN <3!/");
+ds_map_add(global.text_data_en, "bibi_007", "What a joyful day, I am so happy to see you grow more unc YAY!/");
+ds_map_add(global.text_data_en, "bibi_008", "You have always brought joy to me./");
+ds_map_add(global.text_data_en, "bibi_009", "You and your community made me feel welcome,/");
+ds_map_add(global.text_data_en, "bibi_010", "and I always knew I will have a jolly good time./");
+ds_map_add(global.text_data_en, "bibi_011", "That's why I hope you have a joyful birthday today./");
+ds_map_add(global.text_data_en, "bibi_012", "You are a sweet and strong birb, and you deserve all the love and joy in the world./");
+ds_map_add(global.text_data_en, "bibi_013", "So.../");
+ds_map_add(global.text_data_en, "bibi_014", "Robin.../");
+ds_map_add(global.text_data_en, "bibi_015", "Always remember you are deeply loved./");
+ds_map_add(global.text_data_en, "bibi_016", "Today is your day!/");
+ds_map_add(global.text_data_en, "bibi_017", "And WE are all here to celebrate it with you!/");
+ds_map_add(global.text_data_en, "bibi_018", "HAPPY BIRTHDAY ROBIN!/%%");
+//Brochtree 
+ds_map_add(global.text_data_en, "Brochtree_001", "Happy birthday little kitty, oh right sorry Birb./");
+ds_map_add(global.text_data_en, "Brochtree_002", "I am and always have been proud of you./");
+ds_map_add(global.text_data_en, "Brochtree_003", "So always remember that and that you are braver than you believe,/");
+ds_map_add(global.text_data_en, "Brochtree_004", "stronger than you seem, and smarter than you think!/%%");
+//CannedTaters
+ds_map_add(global.text_data_en, "CannedTaters_001", "*.../");
+ds_map_add(global.text_data_en, "CannedTaters_002", "*oh... it's your birthday, huh?/");
+ds_map_add(global.text_data_en, "CannedTaters_003", "*happy birthday.../");
+ds_map_add(global.text_data_en, "CannedTaters_004", "*i don't know what could be said.../");
+ds_map_add(global.text_data_en, "CannedTaters_005", "*that i haven't said in yesteryear./");
+ds_map_add(global.text_data_en, "CannedTaters_006", "*...or the year before./");
+ds_map_add(global.text_data_en, "CannedTaters_007", "*...or the year before that./");
+ds_map_add(global.text_data_en, "CannedTaters_008", "*i just wish you well, okay?/");
+ds_map_add(global.text_data_en, "CannedTaters_009", "*it's probably not easy being you sometimes,");
+ds_map_add(global.text_data_en, "CannedTaters_010", "*but people like me.../");
+ds_map_add(global.text_data_en, "CannedTaters_011", "*(or ghosts like me...)/");
+ds_map_add(global.text_data_en, "CannedTaters_012", "*love that ”you”./");
+ds_map_add(global.text_data_en, "CannedTaters_013", "*.../");
+ds_map_add(global.text_data_en, "CannedTaters_014", "*sorry... i probably've said too much.../%%");
+//Catmun
+ds_map_add(global.text_data_en, "catmun_001", "-I heard there was a birthday happening for a certain bird I knew,/");
+ds_map_add(global.text_data_en, "catmun_002", "-I had to stop in before I got the chance to forget again./");
+ds_map_add(global.text_data_en, "catmun_003", "-So before I forget to say it too, happy birthday Robin!/");
+ds_map_add(global.text_data_en, "catmun_004", "-I promise the cats aren't getting up to trouble this time./");
+ds_map_add(global.text_data_en, "catmun_005", "-... I THINK./");
+ds_map_add(global.text_data_en, "catmun_006", "-I should probably go looking. ...Eventually./%%");
+//Chara
 ds_map_add(global.text_data_en, "chara_001", "* .../");
 ds_map_add(global.text_data_en, "chara_002", "* Greetings./");
 ds_map_add(global.text_data_en, "chara_003", "* I am Chara, but you already####know that, don\’t you?/");
 ds_map_add(global.text_data_en, "chara_004", "* Despite only being here for a# short while, I have seen the loveand joy you bring to everyone./");
-ds_map_add(global.text_data_en, "chara_005", "* My birthday wish for you Robin:To be happy, healthy, and to rec-eive the love and joy from everyone./");
-ds_map_add(global.text_data_en, "chara_006", "* Happy Birthday Robin./%%");
-ds_map_add(global.text_data_en, "ayumu_001", "You look different, but I'm not#sure what it is../");
-ds_map_add(global.text_data_en, "ayumu_002", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "brochtree_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "cannedpotato_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "bear_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "dr_indigo_001", "Happy Birthday Robin!/%%");
+ds_map_add(global.text_data_en, "chara_005", "* My birthday wish for you Robin:/");
+ds_map_add(global.text_data_en, "chara_006", "* To be happy, healthy, and to####receive the love and joy from####everyone./");
+ds_map_add(global.text_data_en, "chara_007", "* Happy Birthday Robin./%%");
+//DoctorIndigo
+ds_map_add(global.text_data_en, "dr_indigo_001", "Happy Birb-day Robin!/");
+ds_map_add(global.text_data_en, "dr_indigo_002", "I hope my favourite comfort streamer Vtuber is doing much better./");
+ds_map_add(global.text_data_en, "dr_indigo_003", "I missed you, and so did everyone else./");
+ds_map_add(global.text_data_en, "dr_indigo_004", "I'm glad you're back, I'm glad you're happier, and I'm glad you could make it for this milestone./");
+ds_map_add(global.text_data_en, "dr_indigo_005", "To all the others to come, I raise my glass at you in celebration!/");
+ds_map_add(global.text_data_en, "dr_indigo_006", "From your dear Doctor, have a fantastic life!/");
+ds_map_add(global.text_data_en, "dr_indigo_007", "*Indy/%%");
+//Ellu
 ds_map_add(global.text_data_en, "ellu_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "itsaned_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "jeff_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "koro_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "luminky_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "lynn_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "maniac_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "metis_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "nito_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "ominous_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "pixeltyto_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "richter_001", "Happy Birthday Robin!/%%");
-ds_map_add(global.text_data_en, "puppet_001", "Happy Birthday Robin!/%%");
+//Ema
+ds_map_add(global.text_data_en, "ema_001", "Happy Burdthday Jason Todd!!! Wait hold on... *reads a paper* Ouh my bad…/");
+ds_map_add(global.text_data_en, "ema_002", "HAPPY BURDTHAY… *looks at the paper again* ROBIN!!!/");
+ds_map_add(global.text_data_en, "ema_003", "It’s another year huh? /");
+ds_map_add(global.text_data_en, "ema_004", "How do you feel now that u are eons old? How is ur back?/");
+ds_map_add(global.text_data_en, "ema_005", "I’m not gonna lie, more than a burd u look like a shrimp./");
+ds_map_add(global.text_data_en, "ema_006", "Well both of them are foods so it’s ok./");
+ds_map_add(global.text_data_en, "ema_007", "Another year pass, more things happened/");
+ds_map_add(global.text_data_en, "ema_008", "Still u are the same crazy small little chicken/");
+ds_map_add(global.text_data_en, "ema_009", "The one we all know, care and love./");
+ds_map_add(global.text_data_en, "ema_010", "Except the ones that want to eat u,/");
+ds_map_add(global.text_data_en, "ema_011", "just saying, hunger can make the most sane person to want to grill u/");
+ds_map_add(global.text_data_en, "ema_012", "or make a butter chicken out of u./");
+ds_map_add(global.text_data_en, "ema_013", "Should i be kind just because is ur birthday?/");
+ds_map_add(global.text_data_en, "ema_014", "mmmm… i don´t think so…/");
+ds_map_add(global.text_data_en, "ema_015", "or maybe i could make an exception/");
+ds_map_add(global.text_data_en, "ema_016", "it’s once in the year anyway./");
+ds_map_add(global.text_data_en, "ema_017", "This may be not the best year until now,/");
+ds_map_add(global.text_data_en, "ema_018", "maybe it is, who knows,/");
+ds_map_add(global.text_data_en, "ema_019", "maybe it gonna be better the rest, maybe not,/");
+ds_map_add(global.text_data_en, "ema_020", "we can’t be sure about that,/");
+ds_map_add(global.text_data_en, "ema_021", "just time will tell,/");
+ds_map_add(global.text_data_en, "ema_022", "still we know one thing…/");
+ds_map_add(global.text_data_en, "ema_023", "we all care for you,/");
+ds_map_add(global.text_data_en, "ema_024", "the ones near u,/");
+ds_map_add(global.text_data_en, "ema_025", "the ones that are away but present,/");
+ds_map_add(global.text_data_en, "ema_026", "the ones that don’t talk that much,/");
+ds_map_add(global.text_data_en, "ema_027", "and the ones that are caring and protecting u from afar/");
+ds_map_add(global.text_data_en, "ema_028", "we all have a collective wish for u,/");
+ds_map_add(global.text_data_en, "ema_029", "and is the best of the best,/");
+ds_map_add(global.text_data_en, "ema_030", "just for the right person, you. (editor is this checked?)/");
+ds_map_add(global.text_data_en, "ema_031", "U deserve it?/");
+ds_map_add(global.text_data_en, "ema_032", "No…/");
+ds_map_add(global.text_data_en, "ema_033", "i mean yes…/");
+ds_map_add(global.text_data_en, "ema_034", "So make sure to live ur life to the fullest,/");
+ds_map_add(global.text_data_en, "ema_035", "we’ll be looking for u to achieve everything u want and more,/");
+ds_map_add(global.text_data_en, "ema_036", "u got this little butter chicken!!!/");
+ds_map_add(global.text_data_en, "ema_037", "Hope u have a wonderful birthday,/");
+ds_map_add(global.text_data_en, "ema_038", "a wonderful life/");
+ds_map_add(global.text_data_en, "ema_039", "and less bullets to shoot at us!!!/");
+ds_map_add(global.text_data_en, "ema_040", "Before u go, here, a little present, believe me, u need it. *gives a soap*/");
+ds_map_add(global.text_data_en, "ema_041", "Journey well!!!/%%");
+//Esemby
+ds_map_add(global.text_data_en, "esemby_001", "This is my friend Chara!/");
+ds_map_add(global.text_data_en, "esemby_002", "Chara is a wonderful friend!/");
+ds_map_add(global.text_data_en, "esemby_003", "I hope that, whenever Chara is###not feeling well, she remembers##how loved and valued she is!/");
+ds_map_add(global.text_data_en, "esemby_004", "This is a test to see if the thing I thought might work actually works%%");
+//FinalFrost
+ds_map_add(global.text_data_en, "frost_001", "-Happy Birthday Robin!/");
+ds_map_add(global.text_data_en, "frost_002", "-Crazy that another year has flew by./");
+ds_map_add(global.text_data_en, "frost_003", "-hehe... flew... bird pun.../");
+ds_map_add(global.text_data_en, "frost_004", "-Jokes aside, I gotta let you know.../");
+ds_map_add(global.text_data_en, "frost_005", "-You are an amazing person that brings so much joy to all our lives./");
+ds_map_add(global.text_data_en, "frost_006", "-I'm happy that we get to share so many good times, bad jokes and laughs./");
+ds_map_add(global.text_data_en, "frost_007", "-Thank you for making our days brighter!/");
+ds_map_add(global.text_data_en, "frost_008", "-Wishing you a great day and an even greater year to come!/%%");
+//ItsAnEd
+ds_map_add(global.text_data_en, "itsaned_001", "Happy Birbday, Robin!/");
+ds_map_add(global.text_data_en, "itsaned_002", "It's been another year, I hope each day is blessed with kindness and joy./");
+ds_map_add(global.text_data_en, "itsaned_003", ".....I'll continue to test the Miku redeem each day./");
+ds_map_add(global.text_data_en, "itsaned_004", "Just kidding...  What if instead../");
+ds_map_add(global.text_data_en, "itsaned_005", "No, it might be too powerful./");
+ds_map_add(global.text_data_en, "itsaned_006", "Well, let's try anyway./");
+ds_map_add(global.text_data_en, "itsaned_007", "Ready?  1...2...../");
+ds_map_add(global.text_data_en, "itsaned_008", "BIRTHDAY BIRTHDAY BEAAAAAAAAAAAAAAAAAAAAAAAAAAAM!/");
+ds_map_add(global.text_data_en, "itsaned_009", "Happy Birthday!/%%");
+//Janox
+ds_map_add(global.text_data_en, "janox_001", "HAPPY BIRBTHDAY WOBBIN!!!/");
+ds_map_add(global.text_data_en, "janox_002", "i want to insert bird puns but i dont wanna cringe-away everyone else so i will just wish you the best./");
+ds_map_add(global.text_data_en, "janox_003", "and only the best. forever. /");
+ds_map_add(global.text_data_en, "janox_004", "I always love to check-in and watch you do your thing and i hope you continue for a loooooong time/");
+ds_map_add(global.text_data_en, "janox_005", "stay who you are. stay the birbiest of them all and stay well out there./%%");
+//Jeff
+ds_map_add(global.text_data_en, "jeff_001", "ROBIN! GOOD BIRBING!/");
+ds_map_add(global.text_data_en, "jeff_002", "IT’S YOUR BIRBDAY!/");
+ds_map_add(global.text_data_en, "jeff_003", "I mean, your birthday! Your birbday birthday!/");
+ds_map_add(global.text_data_en, "jeff_004", "Hooray!/");
+ds_map_add(global.text_data_en, "jeff_005", "I hope you have a wonderful, amazing, and spectacular day!/");
+ds_map_add(global.text_data_en, "jeff_006", "In fact, you should have lots of wonderful days! I mean, people do birthday weeks now, right?/");
+ds_map_add(global.text_data_en, "jeff_007", "I’m glad to hear you’re doing better, and I hope your recovery goes well./");
+ds_map_add(global.text_data_en, "jeff_008", "I’m sorry to hear that you’ve had a hard year, but you’re a lot stronger than you realize./");
+ds_map_add(global.text_data_en, "jeff_009", "Not just for enduring these difficult times, but for being brave enough to ask for help./");
+ds_map_add(global.text_data_en, "jeff_010", "Sending you lots of love, Robin!/");
+ds_map_add(global.text_data_en, "jeff_011", "I, uh, would have gotten you a gift, but I gambled away all my Noxy coins./");
+ds_map_add(global.text_data_en, "jeff_012", "I could probably win them back if I had more luck./");
+ds_map_add(global.text_data_en, "jeff_013", "I’ve heard that, if you rub a bald head, you’ll be blessed with good fortune./");
+ds_map_add(global.text_data_en, "jeff_014", "Wait, please don’t leave! I was just kidding!/%%");
+//Koro - IMPORTANT WE DON'T HAVE ANY DIALOG YET
+ds_map_add(global.text_data_en, "koro_001", "/%%");
+//Kratz
+ds_map_add(global.text_data_en, "kratz_001", "Happy Birthday Robin!/%%");
+//LevelUp
+ds_map_add(global.text_data_en, "levelup_001", "*Hi Robin! Or I guess I should say##“Hei Robin”./");
+ds_map_add(global.text_data_en, "levelup_002", "*Anyway, I've loved seeing your streams evolve so far./");
+ds_map_add(global.text_data_en, "levelup_003", "*I hope to see many more from the bottom of my heart!/");
+ds_map_add(global.text_data_en, "levelup_004", "*But for now, happy birthday and ha det!/");
+ds_map_add(global.text_data_en, "levelup_005", "*(Btw yes I've started to learn Norwegian specifically for these kinds of things)/%%");
+//Lumi/Minty
+ds_map_add(global.text_data_en, "luminky_001", "Happy Birthday Dotter!!! I love you so much!/");
+ds_map_add(global.text_data_en, "luminky_002", "I hope that you have a wonderful day, eat lots of sweets and treat yourself today!!/");
+ds_map_add(global.text_data_en, "luminky_003", "(I promise to not accidently make you a cat today)/");
+ds_map_add(global.text_data_en, "luminky_004", "*Love, Lumi/%%");
+//Maniac
+ds_map_add(global.text_data_en, "maniac_001", "*Hey, welcome back and happy birthday, Robin!/");
+ds_map_add(global.text_data_en, "maniac_002", "*We've all missed our favorite birb.../");
+ds_map_add(global.text_data_en, "maniac_003", "*...but while you were gone, I dug up some high quality garbage for you!/");
+ds_map_add(global.text_data_en, "maniac_004", "*Just kidding. I ate it all. Besides, you deserve awesome cake and party streamers. Here's to a wonderful celebration!/%%");
+//Marlo
+ds_map_add(global.text_data_en, "marlo_001", "ROBIN!!/");
+ds_map_add(global.text_data_en, "marlo_002", "Happy birthday dude!!/");
+ds_map_add(global.text_data_en, "marlo_003", "I know we don't hang out or talk much but I want you to know that I hope you have an amazing birthday!/");
+ds_map_add(global.text_data_en, "marlo_004", "You deserve to feel special and loved today and to have all the best cake!!/");
+ds_map_add(global.text_data_en, "marlo_005", "You have such a bright energy that I love seeing whenever you stream and I'm glad to catch them when you do!/");
+ds_map_add(global.text_data_en, "marlo_006", "Hope today is awesome for you!!/");
+ds_map_add(global.text_data_en, "marlo_007", "*Marlo/%%");
+//Metis
+ds_map_add(global.text_data_en, "metis_001", "I'm a trickster!/");
+ds_map_add(global.text_data_en, "metis_002", "But wanna know a secret?/");
+ds_map_add(global.text_data_en, "metis_003", "Count each of my tails./");
+ds_map_add(global.text_data_en, "metis_004", "For each tail, there is a flame./");
+ds_map_add(global.text_data_en, "metis_005", "For each flame, there is a wish./");
+ds_map_add(global.text_data_en, "metis_006", "Today, each wish is yours!/");
+ds_map_add(global.text_data_en, "metis_007", "I'm a trickster!/");
+ds_map_add(global.text_data_en, "metis_008", "But I'm also your friend to the end!/");
+ds_map_add(global.text_data_en, "metis_009", "Take these flames and make you wishes./");
+ds_map_add(global.text_data_en, "metis_010", "And let's go on an adventure!/");
+ds_map_add(global.text_data_en, "metis_011", "All of us together!/");
+ds_map_add(global.text_data_en, "metis_012", "Happy Birthday!/");
+ds_map_add(global.text_data_en, "metis_013", "And many more to come!/");
+ds_map_add(global.text_data_en, "metis_014", "Happy Birthday!/");
+ds_map_add(global.text_data_en, "metis_015", "Shine as bright as the sun!/%%");
+//Nito
+ds_map_add(global.text_data_en, "nito_001", "Howdy Robin!/");
+ds_map_add(global.text_data_en, "nito_002", "Happy Birthday- or happy any-other-day!/");
+ds_map_add(global.text_data_en, "nito_003", "I hope you've been doing better and you'll be eating a lot of delicious food today!/");
+ds_map_add(global.text_data_en, "nito_004", "Though.../");
+ds_map_add(global.text_data_en, "nito_005", "Before i continue with the birthday wishes, i'd like to ´say my piece´ as they say./");
+ds_map_add(global.text_data_en, "nito_006", "You are you - or rather more specific ´Robin´ is and always will be ´Robin´./");
+ds_map_add(global.text_data_en, "nito_007", "The silly goofy Robin, the panicked and yelling Robin, the yelling at chat Robin, the holding chat at gunpoint Robin.../");
+ds_map_add(global.text_data_en, "nito_008", "You get my point./");
+ds_map_add(global.text_data_en, "nito_009", "All that is to say, that -not only to me- You are You. And that's why we stayed. That's why we will always continue to./");
+ds_map_add(global.text_data_en, "nito_010", "Just continue to be the Robin you want to be, okay?/");
+ds_map_add(global.text_data_en, "nito_011", "We'll be here to cheer you on./");
+ds_map_add(global.text_data_en, "nito_012", "Happy Birthday Robin and to many more!
+/");
+ds_map_add(global.text_data_en, "nito_013", "[Please don't blow up to many of my kitchens in the future, the insurance company is starting to catch on]/%%");
+//Ominous
+ds_map_add(global.text_data_en, "ominous_001", "Happy Birthday!!!, cotton candy bird/");
+ds_map_add(global.text_data_en, "ominous_002", "Hope you are having an amazing day/");
+ds_map_add(global.text_data_en, "ominous_003", "Your whole community is here to celebrate/");
+ds_map_add(global.text_data_en, "ominous_004", "Let's all Party!!!/");
+ds_map_add(global.text_data_en, "ominous_005", "And I totally didn't take a nibble of the cake while no one was looking wink wonk/%%");
+//PixelTyto
+ds_map_add(global.text_data_en, "pixeltyto_001", ":
+I heard that its somebody's birthday today../");
+ds_map_add(global.text_data_en, "pixeltyto_002", "I like birthdays a lot.. There is usually cake!/");
+ds_map_add(global.text_data_en, "pixeltyto_003", "What's that? its YOUR birthday? /");
+ds_map_add(global.text_data_en, "pixeltyto_004", "How could I forget a fellow birds birthday!?/");
+ds_map_add(global.text_data_en, "pixeltyto_005", "That being said..../");
+ds_map_add(global.text_data_en, "pixeltyto_006", "I want you to know I enjoy the time we spend together,/");
+ds_map_add(global.text_data_en, "pixeltyto_007", "even if its not as often as I would like/");
+ds_map_add(global.text_data_en, "pixeltyto_008", "and I hope that this birthday is a beautiful one/");
+ds_map_add(global.text_data_en, "pixeltyto_009", "I enjoy playing games with you and watching you play games/");
+ds_map_add(global.text_data_en, "pixeltyto_010", "Everything about you really!/");
+ds_map_add(global.text_data_en, "pixeltyto_011", "Thank you for being such a wonderful bird/");
+ds_map_add(global.text_data_en, "pixeltyto_012", "..../");
+ds_map_add(global.text_data_en, "pixeltyto_013", "and friend. /");
+ds_map_add(global.text_data_en, "pixeltyto_014", "Happy Birthday, with lots of love!/%%");
+//Puppet
+ds_map_add(global.text_data_en, "puppet_001", ".../");
+ds_map_add(global.text_data_en, "puppet_002", "....../");
+ds_map_add(global.text_data_en, "puppet_003", "*crow noises*/");
+ds_map_add(global.text_data_en, "puppet_004", "Good day, Robin. And happy birthday, Robin!/");
+ds_map_add(global.text_data_en, "puppet_005", "Look at me, I'm a crow! You don't see a puppet crow everyday./");
+ds_map_add(global.text_data_en, "puppet_006", "You probably wondering can I fly?/");
+ds_map_add(global.text_data_en, "puppet_007", "Yes I absolutely caaaaaaaaaan NOT!!! crow noises/");
+ds_map_add(global.text_data_en, "puppet_008", "Also my name is Pablo for some reason. The Notorious Pablo./");
+ds_map_add(global.text_data_en, "puppet_009", "Yeah, that's right. You got a... Pablo-m with that?/");
+ds_map_add(global.text_data_en, "puppet_010", "Anyways, I wish you well and good health./");
+ds_map_add(global.text_data_en, "puppet_011", "I know it's been alot lately but we all been through there./");
+ds_map_add(global.text_data_en, "puppet_012", "I certainly did. I know how that felt like./");
+ds_map_add(global.text_data_en, "puppet_013", "Happy birthday once again, Robin. And we shall meet again!/");
+ds_map_add(global.text_data_en, "puppet_014", "*crow noises*/%%");
+//Ram
+ds_map_add(global.text_data_en, "ram_001", "Happy birthday Robin!/");
+ds_map_add(global.text_data_en, "ram_002", "You are a awesome individual! Someone who brightens up everyone's day! /");
+ds_map_add(global.text_data_en, "ram_003", "Your streams have brought such joy into my life, and i want to thank you for that./");
+ds_map_add(global.text_data_en, "ram_004", "So once again i wish you a Happy birthday!/");
+ds_map_add(global.text_data_en, "ram_005", "I wish you all the best in your future as a streamer./");
+ds_map_add(global.text_data_en, "ram_006", "Be sure to continue bringing joy to all with your streams. /");
+ds_map_add(global.text_data_en, "ram_007", "— Ram/%%");
+//Razor
+ds_map_add(global.text_data_en, "razor_001", "Happy birthday Robin!/");
+ds_map_add(global.text_data_en, "razor_002", "You are such a bright and entertaining presence in every one of your streams/");
+ds_map_add(global.text_data_en, "razor_003", "and I hope your future will be bright and that the dark clouds will no longer cover your skies!/");
+ds_map_add(global.text_data_en, "razor_004", "You deserve happiness and I wish nothing but the best for you!/");
+ds_map_add(global.text_data_en, "razor_005", "You are not only our clown, but also our God Gamer/");
+ds_map_add(global.text_data_en, "razor_006", "and no doubt you will beat Alien Isolation 2 in maybe 25 minutes./");
+ds_map_add(global.text_data_en, "razor_007", "I’m looking forward to whatever you and Noxy do in the future!/");
+ds_map_add(global.text_data_en, "razor_008", "Take care and have a wonderful day!/%%");
+//Richter - IMPORTANT WE DON'T HAVE ANY DIALOG YET
+ds_map_add(global.text_data_en, "richter_001", "/%%");
+//Ruyawn
+ds_map_add(global.text_data_en, "ruyawn_001", "Happy Birthday Robin!/%%");
+//Shmay
+ds_map_add(global.text_data_en, "shmay_001", "Happy Birthday Robin!/%%");
+//Sideline
+ds_map_add(global.text_data_en, "sideline_001", "ROBIN! ROBIN!!!/");
+ds_map_add(global.text_data_en, "sideline_002", "HELP ME THEY TURNED ME INTO A BIRD!/");
+ds_map_add(global.text_data_en, "sideline_003", "Huh? What's that?/");
+ds_map_add(global.text_data_en, "sideline_004", "It's your birthday?/");
+ds_map_add(global.text_data_en, "sideline_005", ".../");
+ds_map_add(global.text_data_en, "sideline_006", "WELL HAPPY BIRTHDAY ROBIN!!! :3/");
+ds_map_add(global.text_data_en, "sideline_007", "Was this always your plan?!?! To turn me into a bird?!?!/");
+ds_map_add(global.text_data_en, "sideline_008", "Well, since it's your birthday I guess I'm okay with it! Hmph!/");
+ds_map_add(global.text_data_en, "sideline_009", "You're one of my favorite birds Robin and I honestly really missed you!/");
+ds_map_add(global.text_data_en, "sideline_010", "But let's not get all sappy, I'm just glad that I got to see you again./");
+ds_map_add(global.text_data_en, "sideline_011", "Even if it's in this stinky... feathered form.../");
+ds_map_add(global.text_data_en, "sideline_012", "Now Robin do you find it in your heart to turn me back to cat form? :3/");
+ds_map_add(global.text_data_en, "sideline_013", "WAIT ROBIN DON'T GO!!!/");
+ds_map_add(global.text_data_en, "sideline_014", "TURN ME BACK ROBIN!!!/");
+ds_map_add(global.text_data_en, "sideline_015", "PLEASE!!! OH! THE AGONY!!!/");
+ds_map_add(global.text_data_en, "sideline_016", ".../");
+ds_map_add(global.text_data_en, "sideline_017", "Chirp chirp chirp/");
+ds_map_add(global.text_data_en, "sideline_018", "I'm birb :3/%%");
+//Walru
+ds_map_add(global.text_data_en, "walru_001", "*Don't worry 'bout THE allegations./");
+ds_map_add(global.text_data_en, "walru_002", "*I still think you're pretty cool./");
+ds_map_add(global.text_data_en, "walru_003", "*Anyways, happy birth./%%");
+//Zacko
+ds_map_add(global.text_data_en, "zacko_001", "Happy Birthday Robin!/%%");
+//Zolia
+ds_map_add(global.text_data_en, "zolia_001", "Today’s Robin’s birthday?/");
+ds_map_add(global.text_data_en, "zolia_002", "… my favourite Robin?/");
+ds_map_add(global.text_data_en, "zolia_003", "Well obv it’s Jaso- /");
+ds_map_add(global.text_data_en, "zolia_004", "I mean ROBIN FROM ROBIN AND NOXY !! Hahaha!/");
+ds_map_add(global.text_data_en, "zolia_005", "Well, happy birthday Robin! /");
+ds_map_add(global.text_data_en, "zolia_006", "And I am sorry I hadn’t been active in the community this past year,/");
+ds_map_add(global.text_data_en, "zolia_007", "but here’s to hoping to a happy year of age!/%%");
+//additional lines
+ds_map_add(global.text_data_en, "xyz_001", "/%%");
+ds_map_add(global.text_data_en, "default_birthday", "Happy Birthday Robin!/%%");
