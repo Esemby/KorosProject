@@ -19,6 +19,7 @@ Koro
 Kratz
 LevelUp
 Lumi/Minty
+Lynn
 Maniac
 Marlo
 Metis
@@ -34,4 +35,3 @@ Shmay
 Sideline
 Walru
 Zacko
-Zolia

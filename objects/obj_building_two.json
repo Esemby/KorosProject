@@ -4,7 +4,7 @@
   "Sprite": "spr_building_two",
   "Visible": true,
   "Solid": false,
-  "Depth": 0,
+  "Depth": 1,
   "Persistent": false,
   "ParentObject": null,
   "MaskSprite": null,

@@ -8,7 +8,7 @@ global.faceemotion = 0;
 global.msg[0] = scr_gettext("esemby_001"); // This is my friend Chara!/
 global.msg[1] = scr_gettext("esemby_002"); // Chara is a wonderful friend./
 global.msg[2] = scr_gettext("esemby_003"); // I hope that, whenever Chara is not feeling well,/
-
+global.msg[3] = scr_gettext("esemby_004");
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

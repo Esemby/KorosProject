@@ -16500,25 +16500,25 @@ ds_map_add(global.text_data_en, "bibi_016", "Today is your day!/");
 ds_map_add(global.text_data_en, "bibi_017", "And WE are all here to celebrate it with you!/");
 ds_map_add(global.text_data_en, "bibi_018", "HAPPY BIRTHDAY ROBIN!/%%");
 //Brochtree 
-ds_map_add(global.text_data_en, "Brochtree_001", "Happy birthday little kitty, oh right sorry Birb./");
-ds_map_add(global.text_data_en, "Brochtree_002", "I am and always have been proud of you./");
-ds_map_add(global.text_data_en, "Brochtree_003", "So always remember that and that you are braver than you believe,/");
-ds_map_add(global.text_data_en, "Brochtree_004", "stronger than you seem, and smarter than you think!/%%");
+ds_map_add(global.text_data_en, "brochtree_001", "Happy birthday little kitty, oh right sorry Birb./");
+ds_map_add(global.text_data_en, "brochtree_002", "I am and always have been proud of you./");
+ds_map_add(global.text_data_en, "brochtree_003", "So always remember that and that you are braver than you believe,/");
+ds_map_add(global.text_data_en, "brochtree_004", "stronger than you seem, and smarter than you think!/%%");
 //CannedTaters
-ds_map_add(global.text_data_en, "CannedTaters_001", "*.../");
-ds_map_add(global.text_data_en, "CannedTaters_002", "*oh... it's your birthday, huh?/");
-ds_map_add(global.text_data_en, "CannedTaters_003", "*happy birthday.../");
-ds_map_add(global.text_data_en, "CannedTaters_004", "*i don't know what could be said.../");
-ds_map_add(global.text_data_en, "CannedTaters_005", "*that i haven't said in yesteryear./");
-ds_map_add(global.text_data_en, "CannedTaters_006", "*...or the year before./");
-ds_map_add(global.text_data_en, "CannedTaters_007", "*...or the year before that./");
-ds_map_add(global.text_data_en, "CannedTaters_008", "*i just wish you well, okay?/");
-ds_map_add(global.text_data_en, "CannedTaters_009", "*it's probably not easy being you sometimes,");
-ds_map_add(global.text_data_en, "CannedTaters_010", "*but people like me.../");
-ds_map_add(global.text_data_en, "CannedTaters_011", "*(or ghosts like me...)/");
-ds_map_add(global.text_data_en, "CannedTaters_012", "*love that ”you”./");
-ds_map_add(global.text_data_en, "CannedTaters_013", "*.../");
-ds_map_add(global.text_data_en, "CannedTaters_014", "*sorry... i probably've said too much.../%%");
+ds_map_add(global.text_data_en, "canned_taters_001", "*.../");
+ds_map_add(global.text_data_en, "canned_taters_002", "*oh... it's your birthday, huh?/");
+ds_map_add(global.text_data_en, "canned_taters_003", "*happy birthday.../");
+ds_map_add(global.text_data_en, "canned_taters_004", "*i don't know what could be said.../");
+ds_map_add(global.text_data_en, "canned_taters_005", "*that i haven't said in yesteryear./");
+ds_map_add(global.text_data_en, "canned_taters_006", "*...or the year before./");
+ds_map_add(global.text_data_en, "canned_taters_007", "*...or the year before that./");
+ds_map_add(global.text_data_en, "canned_taters_008", "*i just wish you well, okay?/");
+ds_map_add(global.text_data_en, "canned_taters_009", "*it's probably not easy being you sometimes,");
+ds_map_add(global.text_data_en, "canned_taters_010", "*but people like me.../");
+ds_map_add(global.text_data_en, "canned_taters_011", "*(or ghosts like me...)/");
+ds_map_add(global.text_data_en, "canned_taters_012", "*love that ”you”./");
+ds_map_add(global.text_data_en, "canned_taters_013", "*.../");
+ds_map_add(global.text_data_en, "canned_taters_014", "*sorry... i probably've said too much.../%%");
 //Catmun
 ds_map_add(global.text_data_en, "catmun_001", "-I heard there was a birthday happening for a certain bird I knew,/");
 ds_map_add(global.text_data_en, "catmun_002", "-I had to stop in before I got the chance to forget again./");
@@ -16646,6 +16646,14 @@ ds_map_add(global.text_data_en, "luminky_001", "Happy Birthday Dotter!!! I love 
 ds_map_add(global.text_data_en, "luminky_002", "I hope that you have a wonderful day, eat lots of sweets and treat yourself today!!/");
 ds_map_add(global.text_data_en, "luminky_003", "(I promise to not accidently make you a cat today)/");
 ds_map_add(global.text_data_en, "luminky_004", "*Love, Lumi/%%");
+//Lynn
+ds_map_add(global.text_data_en, "lynn_001", "Today’s Robin’s birthday?/");
+ds_map_add(global.text_data_en, "lynn_002", "… my favourite Robin?/");
+ds_map_add(global.text_data_en, "lynn_003", "Well obv it’s Jaso- /");
+ds_map_add(global.text_data_en, "lynn_004", "I mean ROBIN FROM ROBIN AND NOXY !! Hahaha!/");
+ds_map_add(global.text_data_en, "lynn_005", "Well, happy birthday Robin! /");
+ds_map_add(global.text_data_en, "lynn_006", "And I am sorry I hadn’t been active in the community this past year,/");
+ds_map_add(global.text_data_en, "lynn_007", "but here’s to hoping to a happy year of age!/%%");
 //Maniac
 ds_map_add(global.text_data_en, "maniac_001", "*Hey, welcome back and happy birthday, Robin!/");
 ds_map_add(global.text_data_en, "maniac_002", "*We've all missed our favorite birb.../");
@@ -16775,14 +16783,6 @@ ds_map_add(global.text_data_en, "walru_002", "*I still think you're pretty cool.
 ds_map_add(global.text_data_en, "walru_003", "*Anyways, happy birth./%%");
 //Zacko
 ds_map_add(global.text_data_en, "zacko_001", "Happy Birthday Robin!/%%");
-//Zolia
-ds_map_add(global.text_data_en, "zolia_001", "Today’s Robin’s birthday?/");
-ds_map_add(global.text_data_en, "zolia_002", "… my favourite Robin?/");
-ds_map_add(global.text_data_en, "zolia_003", "Well obv it’s Jaso- /");
-ds_map_add(global.text_data_en, "zolia_004", "I mean ROBIN FROM ROBIN AND NOXY !! Hahaha!/");
-ds_map_add(global.text_data_en, "zolia_005", "Well, happy birthday Robin! /");
-ds_map_add(global.text_data_en, "zolia_006", "And I am sorry I hadn’t been active in the community this past year,/");
-ds_map_add(global.text_data_en, "zolia_007", "but here’s to hoping to a happy year of age!/%%");
 //additional lines
 ds_map_add(global.text_data_en, "xyz_001", "/%%");
 ds_map_add(global.text_data_en, "default_birthday", "Happy Birthday Robin!/%%");

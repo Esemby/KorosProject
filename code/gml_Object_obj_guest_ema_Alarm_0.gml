@@ -4,11 +4,47 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-
-global.msg[0] = scr_gettext("ema_001");  // Hello Koro!/
-
-
-
+global.msg[0] = scr_gettext("ema_001");
+global.msg[1] = scr_gettext("ema_002");
+global.msg[2] = scr_gettext("ema_003");
+global.msg[3] = scr_gettext("ema_004");
+global.msg[4] = scr_gettext("ema_005");
+global.msg[5] = scr_gettext("ema_006");
+global.msg[6] = scr_gettext("ema_007");
+global.msg[7] = scr_gettext("ema_008");
+global.msg[8] = scr_gettext("ema_009");
+global.msg[9] = scr_gettext("ema_010");
+global.msg[10] = scr_gettext("ema_011");
+global.msg[11] = scr_gettext("ema_012");
+global.msg[12] = scr_gettext("ema_013");
+global.msg[13] = scr_gettext("ema_014");
+global.msg[14] = scr_gettext("ema_015");
+global.msg[15] = scr_gettext("ema_016");
+global.msg[16] = scr_gettext("ema_017");
+global.msg[17] = scr_gettext("ema_018");
+global.msg[18] = scr_gettext("ema_019");
+global.msg[19] = scr_gettext("ema_020");
+global.msg[20] = scr_gettext("ema_021");
+global.msg[21] = scr_gettext("ema_022");
+global.msg[22] = scr_gettext("ema_023");
+global.msg[23] = scr_gettext("ema_024");
+global.msg[24] = scr_gettext("ema_025");
+global.msg[25] = scr_gettext("ema_026");
+global.msg[26] = scr_gettext("ema_027");
+global.msg[27] = scr_gettext("ema_028");
+global.msg[28] = scr_gettext("ema_029");
+global.msg[29] = scr_gettext("ema_030");
+global.msg[30] = scr_gettext("ema_031");
+global.msg[31] = scr_gettext("ema_032");
+global.msg[32] = scr_gettext("ema_033");
+global.msg[33] = scr_gettext("ema_034");
+global.msg[34] = scr_gettext("ema_035");
+global.msg[35] = scr_gettext("ema_036");
+global.msg[36] = scr_gettext("ema_037");
+global.msg[37] = scr_gettext("ema_038");
+global.msg[38] = scr_gettext("ema_039");
+global.msg[39] = scr_gettext("ema_040");
+global.msg[40] = scr_gettext("ema_041");
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

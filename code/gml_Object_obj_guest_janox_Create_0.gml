@@ -1,0 +1,14 @@
+guestsprite = spr_guest_noxy_d;
+dsprite = guestsprite;
+usprite = guestsprite;
+lsprite = guestsprite;
+rsprite = guestsprite;
+dtsprite = guestsprite;
+utsprite = guestsprite;
+ltsprite = guestsprite;
+rtsprite = guestsprite;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

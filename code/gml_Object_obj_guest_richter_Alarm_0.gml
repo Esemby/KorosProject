@@ -5,7 +5,7 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("richter_001");  // Hello Koro!/
+global.msg[0] = scr_gettext("richter_001");
 
 
 

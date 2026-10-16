@@ -6,7 +6,7 @@
   "Solid": false,
   "Depth": 0,
   "Persistent": false,
-  "ParentObject": null,
+  "ParentObject": "obj_readablesolid",
   "MaskSprite": null,
   "UsesPhysics": false,
   "IsSensor": false,

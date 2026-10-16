@@ -5,7 +5,10 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("brochtree_001");  // Hello Koro!/
+global.msg[0] = scr_gettext("brochtree_001");
+global.msg[1] = scr_gettext("brochtree_002");
+global.msg[2] = scr_gettext("brochtree_003");
+global.msg[3] = scr_gettext("brochtree_004");
 
 
 
