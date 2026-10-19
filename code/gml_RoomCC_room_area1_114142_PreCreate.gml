@@ -1,0 +1,1 @@
+door_destination="room_area_zero"

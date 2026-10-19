@@ -600,9 +600,9 @@
     },
     {
       "ObjectName": "obj_birthday_door",
-      "X": 130,
-      "Y": 70,
-      "CreationCodeEntry": null,
+      "X": 140,
+      "Y": 80,
+      "CreationCodeEntry": "gml_RoomCC_room_area1_114441_Create",
       "ScaleX": 1,
       "ScaleY": 1,
       "Color": 4294967295,

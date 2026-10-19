@@ -1,7 +1,7 @@
 {
   "$type": "GameObject",
   "DataName": null,
-  "Sprite": "spr_regpresent",
+  "Sprite": "spr_presentbox",
   "Visible": true,
   "Solid": false,
   "Depth": 0,
@@ -20,5 +20,16 @@
   "Awake": true,
   "Kinematic": false,
   "PhysicsVertices": [],
-  "Events": []
+  "Events": [
+    {
+      "Category": "Create",
+      "Subtype": "",
+      "CodeEntry": "gml_Object_obj_birthday_door_Create_0"
+    },
+    {
+      "Category": "Alarm",
+      "Subtype": "2",
+      "CodeEntry": "gml_Object_obj_birthday_door_Alarm_2"
+    }
+  ]
 }

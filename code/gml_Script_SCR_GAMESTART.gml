@@ -180,4 +180,6 @@ global.batmusic = -1;
 global.typer = 5;
 global.msc = 0;
 global.hardmode = 0;
+global.unlocked_ralsei = 0;
 global.talked_to_koro = 0;
+global.door_exit=-1;

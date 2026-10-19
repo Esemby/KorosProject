@@ -2,11 +2,10 @@
 global.entrance = 24;
 instance_create(0, 0, obj_persistentfader);
 
-if (room == room_area1)
+//if (room == room_area1)
+if(door_destination=="room_area_zero")
     room_goto(room_area_zero);
     
-if (room == room_area1_2)
-    room_goto(room_area_zero);
 
 if (room == room_area_zero) {
     audio_stop_all();

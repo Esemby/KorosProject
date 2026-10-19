@@ -1,0 +1,13 @@
+dsprite = spr_guest_ralseid;
+usprite = spr_guest_ralseiu;
+lsprite = spr_guest_ralseil;
+rsprite = spr_guest_ralseir;
+dtsprite = spr_guest_ralseid;
+utsprite = spr_guest_ralseiu;
+ltsprite = spr_guest_ralseil;
+rtsprite = spr_guest_ralseir;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

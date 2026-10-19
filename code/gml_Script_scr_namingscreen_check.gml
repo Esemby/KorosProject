@@ -224,7 +224,7 @@ else if (l_char == "esemby" || l_char == "エせんび")
 else if (l_char == "robin" || l_char == "robinandnoxy")
 {
     allow = 1;
-    spec_m = "Koro, tell me what to put here";
+    spec_m = "The chosen one...";
 }
 else if (l_char == "gaster" || l_char == "がすたー")
 {
