@@ -1,12 +1,12 @@
 {
   "$type": "GameObject",
   "DataName": null,
-  "Sprite": null,
+  "Sprite": "spr_guest_noxy_d",
   "Visible": true,
   "Solid": false,
   "Depth": 0,
   "Persistent": false,
-  "ParentObject": null,
+  "ParentObject": "obj_readablesolid",
   "MaskSprite": null,
   "UsesPhysics": false,
   "IsSensor": false,
@@ -21,6 +21,11 @@
   "Kinematic": false,
   "PhysicsVertices": [],
   "Events": [
+    {
+      "Category": "Create",
+      "Subtype": "",
+      "CodeEntry": "gml_Object_obj_guest_kitsho_Create_0"
+    },
     {
       "Category": "Alarm",
       "Subtype": "0",

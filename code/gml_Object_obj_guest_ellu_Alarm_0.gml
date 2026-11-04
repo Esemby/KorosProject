@@ -4,7 +4,7 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-
+//no dialog submitted
 global.msg[0] = "Happy Birthday Robin!/%%";
 
 

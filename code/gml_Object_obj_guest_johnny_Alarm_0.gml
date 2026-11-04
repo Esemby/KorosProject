@@ -8,7 +8,7 @@ global.msg[0] = "Robin./";
 global.msg[1] = "Happy Birbday./";
 global.msg[2] = "For years I heard how awesome you are from Koro./";
 global.msg[3] = "She was and is right./";
-global.msg[4] = "Keep being an amazing birb and I want only good things to happen to you./";
+global.msg[4] = "Keep being an amazing birb and I want only good things to happen  to you./";
 global.msg[5] = "Your best catbirb,/";
 global.msg[6] = "JohnnyBirb/%%";
 

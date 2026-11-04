@@ -6,8 +6,9 @@ global.faceemotion = 0;
 
 
 global.msg[0] = "* You gained 1 year experience/";
-global.msg[1] = "* Your love by the community increased/";
-global.msg[2] = "* HAPPY BIRTHDAY ROBIN/%%";
+global.msg[1] = "* Your love by the community     increased/";
+global.msg[2] = "* HAPPY BIRTHDAY ROBIN/";
+global.msg[3] = "~kitsho/%%";
 
 
 

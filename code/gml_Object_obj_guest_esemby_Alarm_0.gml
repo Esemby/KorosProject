@@ -4,17 +4,17 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-if(global.unlocked_ralsei == 0) {
-    global.unlocked_ralsei = 1;
-    global.msg[0] = "Let me open the portal for you!/%%";
-} else if(global.charname == "chara") {
-    global.msg[0] = "This is my friend Chara!/";
-    global.msg[1] = "Chara is a wonderful friend!/";
-    global.msg[2] = "I hope that, whenever Chara is###not feeling well, she remembers##how loved and valued she is!/";
-    global.msg[3] = "This is a test to see if the thing I thought might work actually works%%";
-} else {
-    
-}
+global.msg[0] = "Hello hello hello~/";
+global.msg[1] = "My database tells me it's your   birbday!/";
+global.msg[2] = "Happy birbday Robin~/";
+global.msg[3] = "Making this mod was a lot of workand it was all worth it~/";
+global.msg[4] = "This would not have been possiblewithout Koro's ideas and artworks!/";
+global.msg[5] = "And ofcourse, all the friends andhelpers! Special thanks to:/";
+global.msg[6] = "Ominous for helping with         development!/";
+global.msg[7] = "RagRaccoon, FinalFrost and Nito  for making the map art!/";
+global.msg[8] = "Chara for playtesting and        emotional support~/";
+global.msg[9] = "And ofcourse all our guests who  provided their soul to be put    into the mod~/";
+global.msg[10] ="Happy birbday, you magnificent   birb!/%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

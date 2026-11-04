@@ -22,6 +22,11 @@
   "PhysicsVertices": [],
   "Events": [
     {
+      "Category": "Create",
+      "Subtype": "",
+      "CodeEntry": "gml_Object_obj_guest_terrick_Create_0"
+    },
+    {
       "Category": "Alarm",
       "Subtype": "0",
       "CodeEntry": "gml_Object_obj_guest_terrick_Alarm_0"
