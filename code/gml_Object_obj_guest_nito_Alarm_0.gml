@@ -5,20 +5,22 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("nito_001");
-global.msg[1] = scr_gettext("nito_002");
-global.msg[2] = scr_gettext("nito_003");
-global.msg[3] = scr_gettext("nito_004");
-global.msg[4] = scr_gettext("nito_005");
-global.msg[5] = scr_gettext("nito_006");
-global.msg[6] = scr_gettext("nito_007");
-global.msg[7] = scr_gettext("nito_008");
-global.msg[8] = scr_gettext("nito_009");
-global.msg[9] = scr_gettext("nito_010");
-global.msg[10] = scr_gettext("nito_011");
-global.msg[11] = scr_gettext("nito_012");
-global.msg[12] = scr_gettext("nito_013");
-
+global.msg[0] = "Howdy Robin!/";
+global.msg[1] = "Happy Birthday or happy any-other-day!/";
+global.msg[2] = "I hope you've been doing better  and you'll be eating a lot of    delicious food today!/";
+global.msg[3] = "Though.../";
+global.msg[4] = "Before I continue with the       birthday wishes, i'd like to 'saymy piece' as they say./";
+global.msg[5] = "You are you - or rather more     specific 'Robin' is and always   will be 'Robin'./";
+global.msg[6] = "The silly goofy Robin, the       panicked and yelling Robin, the  yelling at chat Robin/";
+global.msg[7] = "the holding chat at gunpoint     Robin.../";
+global.msg[8] = "You get my point./";
+global.msg[9] = "All that is to say, that -not    only to me- You are You. And     that's why we stayed./";
+global.msg[10] = "That's why we will always        continue to./";
+global.msg[11] = "Just continue to be the Robin youwant to be, okay?/";
+global.msg[12] = "We'll be here to cheer you on./";
+global.msg[13] = "Happy Birthday Robin and to many more!/";
+global.msg[14] = "Please don't blow up to many of  my kitchens in the future.../";
+global.msg[15] = "the...insurance company is       starting to catch on/%%";
 
 
 

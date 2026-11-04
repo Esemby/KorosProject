@@ -5,14 +5,13 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("ram_001");
-global.msg[1] = scr_gettext("ram_002");
-global.msg[2] = scr_gettext("ram_003");
-global.msg[3] = scr_gettext("ram_004");
-global.msg[4] = scr_gettext("ram_005");
-global.msg[5] = scr_gettext("ram_006");
-global.msg[6] = scr_gettext("ram_007");
-
+ds_map_add(global.text_data_en, "ram_001", "Happy birthday Robin!/");
+ds_map_add(global.text_data_en, "ram_002", "You are a awesome individual!    Someone who brightens up         everyone's day! /");
+ds_map_add(global.text_data_en, "ram_003", "Your streams have brought such   joy into my life, and i want to  thank you for that./");
+ds_map_add(global.text_data_en, "ram_004", "So once again i wish you a Happy birthday!/");
+ds_map_add(global.text_data_en, "ram_005", "I wish you all the best in your  future as a streamer./");
+ds_map_add(global.text_data_en, "ram_006", "Be sure to continue bringing joy to all with your streams. /");
+ds_map_add(global.text_data_en, "ram_007", " Ram/%%");
 
 
 

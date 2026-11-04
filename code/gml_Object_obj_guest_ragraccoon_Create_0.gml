@@ -1,0 +1,13 @@
+dsprite = spr_guest_ragraccoon;
+usprite = spr_guest_ragraccoon;
+lsprite = spr_guest_ragraccoon;
+rsprite = spr_guest_ragraccoon;
+dtsprite = spr_guest_ragraccoon;
+utsprite = spr_guest_ragraccoon;
+ltsprite = spr_guest_ragraccoon;
+rtsprite = spr_guest_ragraccoon;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

@@ -2,7 +2,7 @@
   "$type": "GameObject",
   "DataName": null,
   "Sprite": "spr_presentbox",
-  "Visible": true,
+  "Visible": false,
   "Solid": false,
   "Depth": 0,
   "Persistent": false,

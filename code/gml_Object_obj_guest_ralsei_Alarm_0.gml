@@ -5,8 +5,6 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-//global.msg[0] = scr_gettext("metis_001"); // I'm a trickster!/
-
 
 
 

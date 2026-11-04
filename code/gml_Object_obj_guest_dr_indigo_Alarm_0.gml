@@ -5,13 +5,13 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("dr_indigo_001");
-global.msg[1] = scr_gettext("dr_indigo_002");
-global.msg[2] = scr_gettext("dr_indigo_003");
-global.msg[3] = scr_gettext("dr_indigo_004");
-global.msg[4] = scr_gettext("dr_indigo_005");
-global.msg[5] = scr_gettext("dr_indigo_006");
-global.msg[6] = scr_gettext("dr_indigo_007");
+global.msg[0] = "Happy Birb-day Robin!/";
+global.msg[1] = "I hope my favourite comfort      streamer Vtuber is doing much    better./";
+global.msg[2] = "I missed you, and so did everyoneelse./";
+global.msg[3] = "I'm glad you're back, I'm glad   you're happier, and I'm glad you could make it for this milestone./";
+global.msg[4] = "To all the others to come, I     raise my glass at you in         celebration!/";
+global.msg[5] = "From your dear Doctor, have a    fantastic life!/";
+global.msg[6] = "*Indy/%%";
 
 
 

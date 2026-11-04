@@ -5,20 +5,20 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("canned_taters_001");
-global.msg[1] = scr_gettext("canned_taters_002");
-global.msg[2] = scr_gettext("canned_taters_003");
-global.msg[3] = scr_gettext("canned_taters_004");
-global.msg[4] = scr_gettext("canned_taters_005");
-global.msg[5] = scr_gettext("canned_taters_006");
-global.msg[6] = scr_gettext("canned_taters_007");
-global.msg[7] = scr_gettext("canned_taters_008");
-global.msg[8] = scr_gettext("canned_taters_009");
-global.msg[9] = scr_gettext("canned_taters_010");
-global.msg[10] = scr_gettext("canned_taters_011");
-global.msg[11] = scr_gettext("canned_taters_012");
-global.msg[12] = scr_gettext("canned_taters_013");
-global.msg[13] = scr_gettext("canned_taters_014");
+global.msg[0] = "*.../";
+global.msg[1] = "*oh... it's your birthday, huh?/";
+global.msg[2] = "*happy birthday.../";
+global.msg[3] = "*i don't know what could be said....../";
+global.msg[4] = "*that I haven't said in....      yesteryear./";
+global.msg[5] = "*...or the year before./";
+global.msg[6] = "*...or the year before that./";
+global.msg[7] = "*I just wish you well, okay?/";
+global.msg[8] = "*it's probably not easy being you sometimes/";
+global.msg[9] = "*but people like me.../";
+global.msg[10] = "*(or ghosts like me...)/";
+global.msg[11] = "*love that ''you''./";
+global.msg[12] = "*.../";
+global.msg[13] = "*sorry... i probably've said too much.../%%";
 
 
 

@@ -5,12 +5,12 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("catmun_001");
-global.msg[1] = scr_gettext("catmun_002");
-global.msg[2] = scr_gettext("catmun_003");
-global.msg[3] = scr_gettext("catmun_004");
-global.msg[4] = scr_gettext("catmun_005");
-global.msg[5] = scr_gettext("catmun_006");  
+global.msg[0] = "I heard there was a birthday     happening for a certain bird I   knew/";
+global.msg[1] = "I had to stop in before I got    the chance to forget again./";
+global.msg[2] = "So before I forget to say it too happy birthday Robin!/";
+global.msg[3] = "I promise the cats aren't gettingup to trouble this time./";
+global.msg[4] = "... I THINK./";
+global.msg[5] = "I should probably go looking.....Eventually./%%";
 
 
 

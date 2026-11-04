@@ -4,9 +4,9 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-global.msg[0] = scr_gettext("walru_001"); // *Don't worry 'bout THE allegations./
-global.msg[1] = scr_gettext("walru_002");
-global.msg[2] = scr_gettext("walru_003");
+global.msg[0] = "Don't worry 'bout THE allegations/";
+global.msg[1] = "I still think you're pretty cool./";
+global.msg[2] = "Anyways, happy birth./%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

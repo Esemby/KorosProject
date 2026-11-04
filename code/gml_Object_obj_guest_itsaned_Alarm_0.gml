@@ -5,15 +5,15 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("itsaned_001"); // Happy Birbday, Robin!/
-global.msg[1] = scr_gettext("itsaned_002");
-global.msg[2] = scr_gettext("itsaned_003");
-global.msg[3] = scr_gettext("itsaned_004");
-global.msg[4] = scr_gettext("itsaned_005");
-global.msg[5] = scr_gettext("itsaned_006");
-global.msg[6] = scr_gettext("itsaned_007");
-global.msg[7] = scr_gettext("itsaned_008");
-global.msg[8] = scr_gettext("itsaned_009");
+global.msg[0] = "Happy Birbday, Robin!/";
+global.msg[1] = "It's been another year, I hope   each day is blessed with kindnessand joy./";
+global.msg[2] = ".....I'll continue to test the   Miku redeem each day./";
+global.msg[3] = "Just kidding...  What if instead./";
+global.msg[4] = "No, it might be too powerful./";
+global.msg[5] = "Well, let's try anyway./";
+global.msg[6] = "Ready?  1...2...../";
+global.msg[7] = "BIRTHDAY BIRTHDAY BEAAAAAAAAAAAAAAAAAAAAAAAAAAAM!/";
+global.msg[8] = "Happy Birthday!/%%";
 
 
 

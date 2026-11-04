@@ -5,14 +5,14 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("frost_001");
-global.msg[1] = scr_gettext("frost_002");
-global.msg[2] = scr_gettext("frost_003");
-global.msg[3] = scr_gettext("frost_004");
-global.msg[4] = scr_gettext("frost_005");
-global.msg[5] = scr_gettext("frost_006");
-global.msg[6] = scr_gettext("frost_007");
-global.msg[7] = scr_gettext("frost_008");
+global.msg[0] = "-Happy Birthday Robin!/";
+global.msg[1] = "-Crazy that another year has flew by./";
+global.msg[2] = "-hehe... flew... bird pun.../";
+global.msg[3] = "-Jokes aside, I gotta let you    know.../";
+global.msg[4] = "-You are an amazing person that  brings  so much joy to all our   lives./";
+global.msg[5] = "-I'm happy that we get to share  so many good times, bad jokes andlaughs./";
+global.msg[6] = "-Thank you for making our days   brighter!/";
+global.msg[7] = "-Wishing you a great day and an  even greater year to come!/%%";
 
 
 

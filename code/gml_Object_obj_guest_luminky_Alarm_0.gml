@@ -5,10 +5,13 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("luminky_001");
-global.msg[1] = scr_gettext("luminky_002");
-global.msg[2] = scr_gettext("luminky_003");
-global.msg[3] = scr_gettext("luminky_004");
+global.msg[0] = "Happy Birthday Dotter!!! I love  you so much!/";
+global.msg[1] = "I hope that you have a wonderful day,eat lots of sweets and treat yourself today!!/";
+global.msg[2] = "(I promise to not accidently make you a cat today)/";
+global.msg[3] = "*Love, Lumi/%%";global.msg[0] = "Happy Birthday Dotter!!! I love  you so much!/";
+global.msg[1] = "I hope that you have a wonderful day,eat lots of sweets and treat yourself today!!/";
+global.msg[2] = "(I promise to not accidently make you a cat today)/";
+global.msg[3] = "*Love, Lumi/%%";
 
 
 

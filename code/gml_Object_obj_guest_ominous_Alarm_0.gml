@@ -5,11 +5,11 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("ominous_001");
-global.msg[1] = scr_gettext("ominous_002");
-global.msg[2] = scr_gettext("ominous_003");
-global.msg[3] = scr_gettext("ominous_004");
-global.msg[4] = scr_gettext("ominous_005");
+global.msg[0] = "Happy Birthday!!!, cotton candy  bird/";
+global.msg[1] = "Hope you are having an amazing   day/";
+global.msg[2] = "Your whole community is here to  celebrate/";
+global.msg[3] = "Let's all Party!!!/";
+global.msg[4] = "And I totally didn't take a      nibble of the cake while no one  was looking wink wonk/%%";
 
 
 

@@ -16,12 +16,21 @@ if(door_destination=="room_area_zero_c")
 
 if(door_destination=="room_area_zero_bar")
     room_goto(room_area_zero_bar);
+    
+if(door_destination=="room_area_zero_bar_kitchen")
+    room_goto(room_area_zero_bar_kitchen);
 
 if(door_destination=="room_area_zero_casino")
     room_goto(room_area_zero_casino);
 
 if(door_destination=="room_area_zero_school")
     room_goto(room_area_zero_school);
+    
+if(door_destination=="room_area_zero_school_games")
+    room_goto(room_area_zero_school_games);
+    
+if(door_destination=="room_area_zero_school_class")
+    room_goto(room_area_zero_school_class);
 
 if(door_destination=="room_area_zero_ralsei_hallway")
     room_goto(room_area_zero_ralsei_hallway);

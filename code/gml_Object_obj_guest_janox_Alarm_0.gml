@@ -5,11 +5,12 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("janox_001");
-global.msg[1] = scr_gettext("janox_002");
-global.msg[2] = scr_gettext("janox_003");
-global.msg[3] = scr_gettext("janox_004");
-global.msg[4] = scr_gettext("janox_005");
+global.msg[0] = "HAPPY BIRBTHDAY WOBBIN!!!/";
+global.msg[1] = "[here] would be a bird pun...#IF I HAD ANY!!!/";
+global.msg[2] = "well...#in all seriousness though i wanted#to spare you the cringe../";
+global.msg[3] = "ANYway#i always love to check in on you#and see what fun little   things#you're up to!/";
+global.msg[4] = "stay who you are. always.#stay   the birbiest of them all.../";
+global.msg[5] = "and stay well out there!#Janoxys/%%";
 
 
 

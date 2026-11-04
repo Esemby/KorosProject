@@ -6,11 +6,11 @@
   "Solid": false,
   "Depth": 0,
   "Persistent": false,
-  "ParentObject": null,
+  "ParentObject": "obj_readablesolid",
   "MaskSprite": null,
   "UsesPhysics": false,
   "IsSensor": false,
-  "CollisionShape": "Circle",
+  "CollisionShape": "Custom",
   "Density": 0.5,
   "Restitution": 0.1,
   "Group": 0,
@@ -30,6 +30,11 @@
       "Category": "Alarm",
       "Subtype": "0",
       "CodeEntry": "gml_Object_obj_guest_ralsei_Alarm_0"
+    },
+    {
+      "Category": "Step",
+      "Subtype": "BeginStep",
+      "CodeEntry": "gml_Object_obj_guest_ralsei_Step_1"
     }
   ]
 }

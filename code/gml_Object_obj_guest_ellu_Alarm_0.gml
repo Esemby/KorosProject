@@ -5,7 +5,7 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("ellu_001");
+global.msg[0] = "Happy Birthday Robin!/%%";
 
 
 

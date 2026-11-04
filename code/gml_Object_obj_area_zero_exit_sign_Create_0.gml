@@ -1,0 +1,13 @@
+dsprite = spr_npc_sign;
+usprite = spr_npc_sign;
+lsprite = spr_npc_sign;
+rsprite = spr_npc_sign;
+dtsprite = spr_npc_sign;
+utsprite = spr_npc_sign;
+ltsprite = spr_npc_sign;
+rtsprite = spr_npc_sign;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

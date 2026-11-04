@@ -1,7 +1,7 @@
 {
   "$type": "GameObject",
   "DataName": null,
-  "Sprite": "spr_guest_noxy_d",
+  "Sprite": "spr_guest_marlo",
   "Visible": true,
   "Solid": false,
   "Depth": 0,

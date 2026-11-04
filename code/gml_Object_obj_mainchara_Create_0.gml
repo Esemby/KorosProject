@@ -113,35 +113,44 @@ if (global.interact == 3)
                 x = obj_marker_birthday.x;
                 y = obj_marker_birthday.y;            
             }
-            if(global.door_exit_id == "room_area_zero_a"){
+            if(global.door_exit_id == "marker_a"){
                 x = obj_markerA.x;
                 y = obj_markerA.y;            
             }
-            if(global.door_exit_id == "room_area_zero_b"){
+            if(global.door_exit_id == "marker_b"){
                 x = obj_markerB.x;
                 y = obj_markerB.y;            
             }
-            if(global.door_exit_id == "room_area_zero_c"){
+            if(global.door_exit_id == "marker_c"){
                 x = obj_markerC.x;
                 y = obj_markerC.y;            
             }
-            if(global.door_exit_id == "room_area_zero_bar"){
+            if(global.door_exit_id == "marker_d"){
                 x = obj_markerD.x;
                 y = obj_markerD.y;            
             }
-            if(global.door_exit_id == "room_area_zero_casino"){
+            if(global.door_exit_id == "marker_e"){
+                x = obj_markerE.x;
+                y = obj_markerE.y;            
+            }
+            if(global.door_exit_id == "marker_r"){
                 x = obj_markerr.x;
                 y = obj_markerr.y;            
             }
-            if(global.door_exit_id == "room_area_zero_school"){
+            if(global.door_exit_id == "marker_s"){
+            //somehow glitchy maybe
                 x = obj_markers.x;
                 y = obj_markers.y;            
             }
-            if(global.door_exit_id == "room_area_zero_ralsei_hallway"){
+            if(global.door_exit_id == "marker_t"){
                 x = obj_markert.x;
                 y = obj_markert.y;            
             }
-            if(global.door_exit_id == "room_area_zero"){
+            if(global.door_exit_id == "marker_u"){
+                x = obj_markeru.x;
+                y = obj_markeru.y;            
+            }
+            if(global.door_exit_id == "marker_x"){
                 x = obj_markerX.x;
                 y = obj_markerX.y;            
             }

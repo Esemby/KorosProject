@@ -1,0 +1,2 @@
+door_destination="room_area_zero_school"
+door_exit_id="marker_a"

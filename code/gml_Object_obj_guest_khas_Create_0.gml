@@ -1,0 +1,13 @@
+dsprite = spr_guest_khas;
+usprite = spr_guest_khas;
+lsprite = spr_guest_khas;
+rsprite = spr_guest_khas;
+dtsprite = spr_guest_khas;
+utsprite = spr_guest_khas;
+ltsprite = spr_guest_khas;
+rtsprite = spr_guest_khas;
+myinteract = 0;
+facing = 0;
+direction = 0;
+talkedto = 0;
+image_speed = 0;

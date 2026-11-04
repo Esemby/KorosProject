@@ -5,10 +5,11 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = scr_gettext("maniac_001");
-global.msg[1] = scr_gettext("maniac_002");
-global.msg[2] = scr_gettext("maniac_003");
-global.msg[3] = scr_gettext("maniac_004");
+global.msg[0] = "*Hey, welcome back and happy     birthday, Robin!/";
+global.msg[1] = "*We've all missed our favorite   birb.../";
+global.msg[2] = "*...but while you were gone, I   dug up some high quality garbage for you!/";
+global.msg[3] = "*Just kidding. I ate it all.     Besides, you deserve awesome cakeand party streamers./";
+global.msg[4] = "*Here's to a wonderful           CELEBRATION!!!!/%%";
 
 
 
