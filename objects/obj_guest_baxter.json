@@ -20,5 +20,11 @@
   "Awake": false,
   "Kinematic": false,
   "PhysicsVertices": [],
-  "Events": []
+  "Events": [
+    {
+      "Category": "Alarm",
+      "Subtype": "0",
+      "CodeEntry": "gml_Object_obj_guest_baxter_Alarm_0"
+    }
+  ]
 }

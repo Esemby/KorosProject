@@ -7,6 +7,7 @@ global.faceemotion = 0;
 global.msg[0] = "Don't worry 'bout THE allegations/";
 global.msg[1] = "I still think you're pretty cool./";
 global.msg[2] = "Anyways, happy birth./%%";
+global.msg[3] = "* Walru/%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

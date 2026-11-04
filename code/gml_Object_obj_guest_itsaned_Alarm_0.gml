@@ -14,7 +14,7 @@ global.msg[5] = "Well, let's try anyway./";
 global.msg[6] = "Ready?  1...2...../";
 global.msg[7] = "BIRTHDAY BIRTHDAY BEAAAAAAAAAAAAAAAAAAAAAAAAAAAM!/";
 global.msg[8] = "Happy Birthday!/%%";
-
+global.msg[9] = "* ItsAnEd";
 
 
 

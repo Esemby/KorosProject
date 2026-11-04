@@ -1,0 +1,36 @@
+myinteract = 3;
+global.msc = 0;
+global.typer = 5;
+global.facechoice = 0;
+global.faceemotion = 0;
+
+global.msg[0] = "(O v O)/";
+global.msg[1] = ".../";
+global.msg[2] = "oh my gosh/";
+global.msg[3] = ".../";
+global.msg[4] = "(\v\)/";
+global.msg[5] = ".../";
+global.msg[6] = "It's Robin .../";
+global.msg[7] = ".../";
+global.msg[8] = "(\v\)/ ok, here goes .../";
+global.msg[9] = "inhales/";
+global.msg[10] = "(^ o ^)/ HAPPY BIRTHDAY ROBIN!!!!!!/";
+global.msg[11] = "(^ o ^)/ YOU'RE THE FREAKIN' BEST!!!/";
+global.msg[12] = "(^ v ^) ON BAD DAYS YOUR STREAMS MAKE MY DAYS SO MUCH /";
+global.msg[13] = "BETTER!/";
+global.msg[14] = "(^ v ^) AND YOU MAKE ME LAUGH SO MUCH!/";
+global.msg[15] = "(^ v ^) YOU'RE CLEVER AND KIND!/";
+global.msg[16] = "o(^ v ^)o AND YOU'RE SO BRAVE EVEN WHEN THE GAMES WE /";
+global.msg[17] = "MAKE YOU PLAY ARE SUPER SCARY!!/";
+global.msg[18] = "(^ o ^)/ YOU DESERVE THE BEST BIRTHDAY EVER!!!/";
+global.msg[19] = "(^ o ^)/ EVERYONE MAKE SURE TO GIVE ROBIN LOTS AND LOTS OF LOVE!!/";
+global.msg[20] = "o(^ O ^)/ AND LOTS AND LOTS OF CAKE TOO!/";
+global.msg[21] = "(^ O ^)/ I LOVE YOU SO MUCH! AND HAAAAPPY BIRTHDAAAAAAY!!!!/";
+global.msg[22] = "(\v\) (heavy breathing ...)/";
+global.msg[23] = "(\v\) Hold on I think I need to sit down for a minunte .../";
+global.msg[24] = "(o v o) (suddenly goes pale)/";
+global.msg[25] = "(- v -) (faints in the presences of my ohsi)/";
+global.msg[26] = "(- v -) .../%%";
+
+mydialoguer = instance_create(0, 0, obj_dialoguer);
+talkedto += 1;

@@ -4,16 +4,13 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-
-ds_map_add(global.text_data_en, "ram_001", "Happy birthday Robin!/");
-ds_map_add(global.text_data_en, "ram_002", "You are a awesome individual!    Someone who brightens up         everyone's day! /");
-ds_map_add(global.text_data_en, "ram_003", "Your streams have brought such   joy into my life, and i want to  thank you for that./");
-ds_map_add(global.text_data_en, "ram_004", "So once again i wish you a Happy birthday!/");
-ds_map_add(global.text_data_en, "ram_005", "I wish you all the best in your  future as a streamer./");
-ds_map_add(global.text_data_en, "ram_006", "Be sure to continue bringing joy to all with your streams. /");
-ds_map_add(global.text_data_en, "ram_007", " Ram/%%");
-
-
+global.msg[0] = "Happy birthday Robin!/";
+global.msg[1] = "You are a awesome individual!    Someone who brightens up         everyone's day!/";
+global.msg[2] = "Your streams have brought such   joy into my life, and i want to  thank you for that./";
+global.msg[3] = "So once again i wish you a Happy birthday!/";
+global.msg[4] = "I wish you all the best in your  future as a streamer./";
+global.msg[5] = "Be sure to continue bringing joy to all with your streams./";
+global.msg[6] = "- Ram/%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;
