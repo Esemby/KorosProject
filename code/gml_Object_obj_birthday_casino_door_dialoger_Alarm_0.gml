@@ -5,7 +5,7 @@ global.facechoice = 0;
 global.faceemotion = 0;
 
 
-global.msg[0] = "Door closed due to not being open/ (Toby didn't make enough door exits, ok?)/%%"; // Happy Birthday Robin!/%%
+global.msg[0] = "Door closed due to not being open^3 (Toby didn't make enough door exits, ok?)/%%";
 
 
 

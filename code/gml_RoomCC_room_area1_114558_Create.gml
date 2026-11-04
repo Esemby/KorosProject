@@ -1,0 +1,2 @@
+door_destination=room_water_statue
+door_exit_id="marker_b"

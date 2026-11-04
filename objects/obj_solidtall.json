@@ -5,7 +5,7 @@
   "Visible": false,
   "Solid": false,
   "Depth": 60000,
-  "Persistent": true,
+  "Persistent": false,
   "ParentObject": "obj_solidsmall",
   "MaskSprite": null,
   "UsesPhysics": false,

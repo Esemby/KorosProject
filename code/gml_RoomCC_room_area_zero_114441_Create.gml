@@ -1,2 +1,2 @@
-door_destination="room_area_zero_b"
+door_destination=room_area_zero_b
 door_exit_id="marker_a"

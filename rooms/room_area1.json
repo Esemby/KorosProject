@@ -610,6 +610,58 @@
       "PreCreateCodeEntry": null,
       "ImageSpeed": 0,
       "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_birthday_door",
+      "X": 40,
+      "Y": 140,
+      "CreationCodeEntry": "gml_RoomCC_room_area1_114567_Create",
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_solidtall",
+      "X": 0,
+      "Y": 40,
+      "CreationCodeEntry": null,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_sul",
+      "X": 40,
+      "Y": 120,
+      "CreationCodeEntry": null,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_sdl",
+      "X": 40,
+      "Y": 160,
+      "CreationCodeEntry": null,
+      "ScaleX": 1,
+      "ScaleY": 1,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
     }
   ],
   "Tiles": [{"Asset":"bg_ruinsplaceholder","X":40,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":60,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":80,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":100,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":120,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":140,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":180,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":160,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":200,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":220,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder","X":240,"Y":-20,"SourceX":40,"SourceY":40,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder2","X":140,"Y":120,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder2","X":160,"Y":140,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinsplaceholder2","X":120,"Y":140,"SourceX":60,"SourceY":0,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":160,"Y":140,"SourceX":140,"SourceY":60,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":160,"Y":140,"SourceX":140,"SourceY":60,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":160,"Y":140,"SourceX":140,"SourceY":60,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":120,"Y":140,"SourceX":140,"SourceY":60,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":120,"Y":140,"SourceX":140,"SourceY":60,"Width":20,"Height":20,"Depth":1000000,"ScaleX":1,"ScaleY":1,"Color":4294967295},{"Asset":"bg_ruinseasynam3","X":120,"Y":120,"SourceX":100,"SourceY":240,"Width":60,"Height":40,"Depth":999999,"ScaleX":1,"ScaleY":1,"Color":4294967295}],

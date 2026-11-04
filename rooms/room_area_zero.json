@@ -2445,58 +2445,6 @@
       "ImageIndex": 0
     },
     {
-      "ObjectName": "obj_guest_nana",
-      "X": 992,
-      "Y": 784,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
-      "ObjectName": "obj_guest_puppet",
-      "X": 864,
-      "Y": 784,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
-      "ObjectName": "obj_guest_ragraccoon",
-      "X": 800,
-      "Y": 864,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
-      "ObjectName": "obj_guest_ralsei",
-      "X": 784,
-      "Y": 880,
-      "CreationCodeEntry": null,
-      "ScaleX": 1,
-      "ScaleY": 1,
-      "Color": 4294967295,
-      "Rotation": 0,
-      "PreCreateCodeEntry": null,
-      "ImageSpeed": 0,
-      "ImageIndex": 0
-    },
-    {
       "ObjectName": "obj_guest_razor",
       "X": 816,
       "Y": 944,
