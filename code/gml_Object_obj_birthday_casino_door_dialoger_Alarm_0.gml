@@ -4,8 +4,11 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-
-global.msg[0] = "Door closed due to not being open^3 (Toby didn't make enough door exits, ok?)/%%";
+if(room == room_water_prewaterfall){
+    global.msg[0] = "Evil cats have messed with the   umbrellas, save befor using them!/%%"
+} else {
+    global.msg[0] = "Door closed due to not being open^3 (Toby didn't make enough door exits, ok?)/%%";
+}
 
 
 

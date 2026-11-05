@@ -4,9 +4,46 @@ global.typer = 5;
 global.facechoice = 0;
 global.faceemotion = 0;
 
-
-
-
+global.msg[0] = "* oh!/";
+global.msg[1] = "* hello/";
+global.msg[2] = "* I didn't think I would see     anyone else here .../";
+global.msg[3] = "* in the dark../";
+global.msg[4] = "* it's not the most pleasant     place to be is it? He he…/";
+global.msg[5] = "* .../";
+global.msg[6] = "* hello Robin!!/";
+global.msg[7] = "* maybe you don't know me but I  know you/";
+global.msg[8] = "* we've met many times before, I just don't know if you remember  me/";
+global.msg[9] = "* I'm Ralsei!/";
+global.msg[10] ="* you find yourself often in     this dark?/";
+global.msg[11] ="* .../";
+global.msg[12] ="* I learned a long time ago that those who do find themselves in adark place,/"
+global.msg[13] ="* are often those that carry the light inside them/";
+global.msg[14] ="* they don't feel it themselves Ithink/";
+global.msg[15] ="* like how you don't feel your   heartbeat normally/";
+global.msg[16] ="* but see now that I mentioned   it, do you feel your heart beat  now?/";
+global.msg[17] ="* maybe it's soft and even/";
+global.msg[18] ="* or loud and thundering/";
+global.msg[19] ="* that's how your light is too/";
+global.msg[20] ="* sometimes when you're in the   dark/";
+global.msg[21] ="* it will be hard to remember    that there's light inside you too/";
+global.msg[22] ="* and that light was put there   by not only you/";
+global.msg[23] ="* but those who love you!!!/";
+global.msg[24] ="* so don't give up ok?? Don't    ever forget to fight your way outof the darkness !!/";
+global.msg[25] ="* ah I'm sorry!/";
+global.msg[26] ="* I didn't mean to yell.. I'm    just../";
+global.msg[27] ="* I've seen your battles from my place here/";
+global.msg[28] ="* I've seen how you fight and    fight/";
+global.msg[29] ="* you get up everytime/";
+global.msg[30] ="* and you try your best to not   hurt anyone/";
+global.msg[31] ="* I really really admire it!!!/";
+global.msg[32] ="* and despite everything,        despite all the hardships you    have faced/";
+global.msg[33] ="* you're still you./";
+global.msg[34] ="* thank you for being a light in this darkness Robin/";
+global.msg[35] ="* for yourself too, even if you  can't see it right now/";
+global.msg[36] ="* I hope you know it's not just  me here in the dark with you.../";
+global.msg[37] ="* you should find your Boio/";
+global.msg[38] ="* take care Robin/";
+global.msg[39] ="* oh and Happy Birthday !!/%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

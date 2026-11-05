@@ -77,7 +77,9 @@ global.msg[69] = "* Has given me,^1 us,^1 your#          community the gift of Y
 global.msg[70] = "* Of Robin./";
 global.msg[71] = "* And what a beautiful#            unparalleled gift that is./";
 global.msg[72] = "* Thank you./";
-global.msg[73] = "* Happy birbday my boio./%%";
+global.msg[73] = "* Happy birbday my boio./";
+global.msg[74] = "* And don’t forget/";
+global.msg[75] = "* I’m with you in the dark/%%";
 
 mydialoguer = instance_create(0, 0, obj_dialoguer);
 talkedto += 1;

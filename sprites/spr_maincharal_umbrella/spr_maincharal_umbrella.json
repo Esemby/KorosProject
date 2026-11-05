@@ -2,7 +2,7 @@
   "$type": "Sprite",
   "DataName": null,
   "Width": 37,
-  "Height": 41,
+  "Height": 40,
   "MarginLeft": 10,
   "MarginRight": 29,
   "MarginBottom": 40,
@@ -13,7 +13,7 @@
   "BBoxMode": 2,
   "CollisionKind": "AxisAlignedRect",
   "OriginX": 18,
-  "OriginY": 0,
+  "OriginY": 20,
   "TextureCount": 2,
   "MaskCount": 1,
   "Sequence": null

@@ -1,2 +1,2 @@
-door_destination=room_area_zero
-door_exit_id="marker_x"
+door_destination=room_area_zero_ralsei_chamber
+door_exit_id="marker_a"

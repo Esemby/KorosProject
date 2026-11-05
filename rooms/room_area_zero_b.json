@@ -457,8 +457,8 @@
     },
     {
       "ObjectName": "obj_guest_levelup",
-      "X": 175,
-      "Y": 88,
+      "X": 197,
+      "Y": 86,
       "CreationCodeEntry": null,
       "ScaleX": 0.5,
       "ScaleY": 0.5,
@@ -470,8 +470,21 @@
     },
     {
       "ObjectName": "obj_guest_ram",
-      "X": 128,
+      "X": 96,
       "Y": 16,
+      "CreationCodeEntry": null,
+      "ScaleX": 0.5,
+      "ScaleY": 0.5,
+      "Color": 4294967295,
+      "Rotation": 0,
+      "PreCreateCodeEntry": null,
+      "ImageSpeed": 0,
+      "ImageIndex": 0
+    },
+    {
+      "ObjectName": "obj_guest_nana",
+      "X": 128,
+      "Y": 9,
       "CreationCodeEntry": null,
       "ScaleX": 0.5,
       "ScaleY": 0.5,
